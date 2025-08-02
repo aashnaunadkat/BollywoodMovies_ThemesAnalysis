@@ -1,0 +1,101 @@
+imdb_id,year_of_release,hindu_muslim_relations,hm_inclusive_exclusionary,hm_positive_negative,hm_progressive_conservative,hm_escapist_confrontational,gender_relations,gender_inclusive_exclusionary,gender_positive_negative,gender_progressive_conservative,gender_escapist_confrontational,nationalism,nat_inclusive_exclusionary,nat_positive_negative,nat_progressive_conservative,nat_escapist_confrontational,failure_log,other_themes
+tt9558612,2019,1,inclusive,positive,conservative,escapist,0,,,,,1,inclusive,positive,conservative,escapist,,Political biography
+tt10196464,2019,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Family dynamics
+tt10833860,2019,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Economic inequality
+tt1353093,2014,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt1395025,2012,0,,,,,1,exclusionary,negative,conservative,escapist,1,exclusionary,positive,conservative,escapist,,terrorism and espionage
+tt1706317,2012,0,,,,,1,inclusive,positive,progressive,escapist,1,exclusionary,negative,conservative,confrontational,,Immigration and deportation
+tt1727496,2011,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Urban relationships
+tt1825655,2011,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Disability and social stigma
+tt1848771,2011,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Caste relations
+tt1918965,2011,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Violence against women
+tt1942905,2011,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,marital relationships
+tt1947973,2011,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Crime and corruption
+tt1954598,2011,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Economic inequality
+tt1980970,2011,0,,,,,1,exclusionary,negative,conservative,escapist,1,inclusive,positive,progressive,confrontational,,War and peace ideologies
+tt2023645,2011,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Karma and reincarnation
+tt2033947,2011,1,inclusive,positive,progressive,confrontational,0,,,,,1,inclusive,positive,progressive,confrontational,,terrorism and espionage
+tt2104937,2011,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Family dynamics
+tt2106537,2013,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Class struggle and land rights
+tt2130242,2012,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Class dynamics
+tt2150177,2018,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Crime and redemption
+tt2186731,2012,1,exclusionary,negative,conservative,confrontational,1,exclusionary,negative,conservative,escapist,0,,,,,,Police corruption and vigilantism
+tt2224313,2013,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Intergenerational relationships
+tt2229848,2013,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,family dynamics
+tt2294685,2012,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt2321492,2012,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Religious mythology
+tt2387495,2012,0,,,,,1,inclusive,negative,progressive,confrontational,0,,,,,,Female infanticide
+tt2404187,2013,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,None identified
+tt2408040,2012,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Economic exploitation
+tt2424988,2015,0,,,,,1,inclusive,positive,progressive,escapist,1,inclusive,positive,progressive,escapist,,Anti-corruption vigilantism
+tt2551378,2013,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Political corruption and violence
+tt2554042,2013,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt2804026,2013,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Police corruption
+tt2848824,2013,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,corruption and class inequality
+tt2905838,2014,1,exclusionary,negative,conservative,confrontational,1,exclusionary,positive,conservative,escapist,1,inclusive,positive,progressive,confrontational,,terrorism and espionage
+tt2912578,2013,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Medical ethics and corruption
+tt2978626,2014,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,class dynamics
+tt3017412,2014,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Commitment and relationships
+tt3021244,2014,0,,,,,1,inclusive,negative,progressive,confrontational,0,,,,,,Child trafficking and exploitation
+tt3038772,2014,0,,,,,1,inclusive,negative,progressive,confrontational,0,,,,,,corruption and political power
+tt3043252,2015,0,,,,,1,inclusive,negative,progressive,confrontational,0,,,,,,Patriarchy and women's empowerment
+tt3449292,2015,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Caste discrimination
+tt3469244,2015,1,exclusionary,negative,conservative,confrontational,1,exclusionary,negative,conservative,escapist,1,exclusionary,positive,conservative,confrontational,,terrorism and revenge
+tt3554418,2014,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Class differences
+tt3614516,2013,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Family dynamics
+tt3619854,2014,0,,,,,1,inclusive,positive,conservative,escapist,0,,,,,,Business ethics
+tt3640942,2014,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Coal mafia and labor exploitation
+tt3672618,2014,1,exclusionary,negative,progressive,confrontational,1,exclusionary,negative,conservative,confrontational,1,exclusionary,negative,progressive,confrontational,,Religious conversion and identity
+tt3678782,2015,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Criminal justice and revenge
+tt3679000,2015,0,,,,,1,inclusive,positive,progressive,escapist,1,inclusive,positive,progressive,escapist,,Class dynamics
+tt3726012,2016,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Sexual objectification
+tt3767372,2015,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Family dynamics
+tt3794302,2014,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Supernatural horror
+tt3848892,2015,1,exclusionary,negative,conservative,confrontational,0,,,,,1,exclusionary,positive,conservative,confrontational,,Counter-terrorism operations
+tt3893476,2014,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt4249442,2013,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt4272420,2015,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Marital relationships
+tt4287778,2017,0,,,,,1,inclusive,negative,progressive,confrontational,0,,,,,,LGBTQ+ relationships and urban alienation
+tt4335698,2015,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt4340180,2016,1,inclusive,positive,progressive,escapist,1,exclusionary,positive,conservative,escapist,0,,,,,,None identified
+tt4467202,2015,0,,,,,1,exclusionary,positive,conservative,escapist,0,,,,,,Class conflict
+tt4493550,2017,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt4556848,2015,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Class dynamics
+tt4581032,2015,0,,,,,1,exclusionary,positive,conservative,escapist,0,,,,,,None identified
+tt4675030,2016,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Family dynamics
+tt4744086,2016,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,None identified
+tt4814290,2016,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Crime and justice
+tt4853926,2015,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,None identified
+tt4897908,2015,1,exclusionary,negative,conservative,confrontational,1,exclusionary,negative,conservative,confrontational,1,exclusionary,negative,conservative,confrontational,,exploitation of women in entertainment industry
+tt4995402,2015,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt5165344,2016,0,,,,,1,exclusionary,negative,conservative,escapist,1,inclusive,positive,conservative,escapist,,Military corruption
+tt5474036,2018,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Romance and commitment
+tt5615116,2016,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,LGBTQ+ identity and acceptance
+tt5637188,2016,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Crime and redemption
+tt5668770,2019,0,,,,,1,inclusive,negative,progressive,confrontational,0,,,,,,Violence against women
+tt5717110,2016,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Love triangle dynamics
+tt5752374,2016,1,inclusive,negative,progressive,confrontational,1,inclusive,negative,progressive,confrontational,0,,,,,,Political corruption
+tt5785170,2017,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Sanitation and public health
+tt5933706,2016,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,supernatural horror
+tt6040012,2016,0,,,,,1,exclusionary,positive,conservative,escapist,1,inclusive,positive,conservative,escapist,,None identified
+tt6041458,2016,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Supernatural possession
+tt6118134,2016,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt6173826,2017,1,inclusive,positive,progressive,confrontational,1,exclusionary,negative,conservative,escapist,0,,,,,,Immigration and diaspora identity
+tt6272828,2017,1,inclusive,positive,progressive,escapist,1,exclusionary,positive,conservative,escapist,0,,,,,,Family dynamics
+tt6711660,2017,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Political corruption and violence
+tt6712014,2017,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Political corruption
+tt6862542,2019,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt7059844,2019,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Police corruption
+tt7147540,2018,0,,,,,1,inclusive,positive,progressive,escapist,1,inclusive,positive,progressive,escapist,,Economic empowerment
+tt7255568,2019,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Class dynamics
+tt7260848,2018,0,,,,,0,,,,,0,,,,,Not enough information,None identified
+tt7363076,2018,0,,,,,1,exclusionary,negative,conservative,escapist,1,inclusive,positive,progressive,escapist,,Corruption and governance
+tt7471004,2017,0,,,,,1,exclusionary,negative,conservative,confrontational,0,,,,,,Supernatural horror
+tt7743400,2019,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Child trafficking and labor
+tt7853242,2018,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Religious differences
+tt8484942,2019,1,exclusionary,negative,conservative,confrontational,0,,,,,1,exclusionary,positive,conservative,confrontational,,Intelligence operations
+tt8902990,2019,0,,,,,1,inclusive,positive,progressive,escapist,0,,,,,,Medical ethics and family dynamics
+tt8983180,2019,0,,,,,1,inclusive,positive,progressive,confrontational,0,,,,,,Sexual health awareness
+tt9105014,2019,1,inclusive,positive,progressive,confrontational,1,inclusive,positive,progressive,escapist,1,inclusive,positive,progressive,confrontational,,Education and rural development
+tt9176260,2019,0,,,,,1,exclusionary,negative,conservative,escapist,0,,,,,,Family revenge dynamics
+tt9179426,2019,1,inclusive,positive,progressive,escapist,0,,,,,1,inclusive,positive,progressive,escapist,,Military service and duty
