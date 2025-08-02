@@ -1,0 +1,6328 @@
+1
+00:00:50,360 --> 00:00:52,010
+Ma, I'm going for a run.
+
+2
+00:00:52,240 --> 00:00:53,730
+Will you pick up
+some bread on the way back?
+
+3
+00:00:54,040 --> 00:00:55,041
+Why just bread?
+
+4
+00:00:55,320 --> 00:00:57,926
+Eggs, milk, the
+paper, I'll get them all!
+
+5
+00:00:58,560 --> 00:01:00,528
+Oh ho just a minute listen up..
+
+6
+00:01:01,440 --> 00:01:02,441
+Amaya..
+
+7
+00:01:03,520 --> 00:01:04,646
+Amaya?
+
+8
+00:01:06,720 --> 00:01:09,530
+Oh..this girl just never listens!
+
+9
+00:01:16,200 --> 00:01:17,122
+Remember this?
+
+10
+00:01:17,200 --> 00:01:18,486
+Hmmm..
+
+11
+00:01:19,360 --> 00:01:21,169
+I'm good..
+
+12
+00:01:21,800 --> 00:01:24,201
+Mr. Sinha, but the models are better.
+
+13
+00:01:25,240 --> 00:01:27,368
+Hmmm, that I agree!
+
+14
+00:01:28,720 --> 00:01:29,926
+Spectacular!
+
+15
+00:01:30,880 --> 00:01:32,564
+Spectacular my foot.
+
+16
+00:01:32,640 --> 00:01:34,608
+I'm looking like a Bijouka
+
+17
+00:01:35,240 --> 00:01:36,162
+Bijouka?
+
+18
+00:01:36,720 --> 00:01:37,721
+What's that?
+
+19
+00:01:37,800 --> 00:01:39,882
+Those things that stand in the fields..
+
+20
+00:01:39,960 --> 00:01:41,291
+Scarecrows!
+
+21
+00:01:42,280 --> 00:01:45,090
+But I like things
+that stand in the fields..
+
+22
+00:01:45,560 --> 00:01:46,607
+Bijoukas!
+
+23
+00:01:47,120 --> 00:01:48,804
+Speaking of scarecrows,
+
+24
+00:01:49,120 --> 00:01:50,724
+I need to lose some weight.
+
+25
+00:01:50,960 --> 00:01:52,121
+WOW!
+
+26
+00:01:53,160 --> 00:01:54,730
+What a slick change of topic!
+
+27
+00:01:55,960 --> 00:01:57,644
+Hi Mrs. K! How are you?
+
+28
+00:01:57,880 --> 00:01:58,847
+Hey Mrs. K!
+
+29
+00:01:58,920 --> 00:02:00,331
+Wasssssup?
+
+30
+00:02:00,760 --> 00:02:02,000
+Young man, surely you mean
+
+31
+00:02:02,080 --> 00:02:02,922
+what is up?
+
+32
+00:02:03,080 --> 00:02:04,320
+And it's not Mrs. K,
+
+33
+00:02:04,400 --> 00:02:05,481
+it's Leela aunty.
+
+34
+00:02:05,560 --> 00:02:08,006
+Yeah yeah, we love you too Mrs. K!
+
+35
+00:02:08,440 --> 00:02:10,841
+Right, let me go
+hang out with these monkeys!
+
+36
+00:02:12,560 --> 00:02:13,971
+I'll speak with her today.
+
+37
+00:02:15,400 --> 00:02:18,643
+Relax, there is no tearing hurry.
+
+38
+00:02:22,120 --> 00:02:23,121
+Wass..
+
+39
+00:02:23,680 --> 00:02:25,364
+What is up, uncle J!
+
+40
+00:02:26,080 --> 00:02:27,764
+Okay, so tell me..
+
+41
+00:02:28,040 --> 00:02:30,805
+Why do you bob your
+heads like this while speaking?
+
+42
+00:02:31,560 --> 00:02:33,483
+We're in the groove uncle!
+
+43
+00:02:33,520 --> 00:02:35,045
+Oh! Groove..
+
+44
+00:02:41,360 --> 00:02:45,331
+"I wish for a tune, that I might play,"
+
+45
+00:02:47,680 --> 00:02:51,207
+"Which may bare my heart, I so pray."
+
+46
+00:02:53,520 --> 00:02:56,524
+"Lost in her tresses
+as I watch her fly by,"
+
+47
+00:02:56,600 --> 00:02:59,843
+"Watching her over cups
+of coffee, abysmally shy.."
+
+48
+00:02:59,920 --> 00:03:03,527
+"Who is she, do tell all"
+
+49
+00:03:06,120 --> 00:03:09,920
+"Facts on the table,
+or we won't play ball.."
+
+50
+00:03:12,280 --> 00:03:15,329
+"It's a very simple formula,"
+
+51
+00:03:15,400 --> 00:03:20,361
+"Let your hearts speak and say Hurrah!"
+
+52
+00:03:21,440 --> 00:03:22,851
+"Hey Hey Hey"
+
+53
+00:03:22,920 --> 00:03:24,410
+"Mrs. K,"
+
+54
+00:03:24,480 --> 00:03:27,450
+"There's some
+magic in your coffee today"
+
+55
+00:03:27,520 --> 00:03:29,045
+"Hey Hey Hey"
+
+56
+00:03:29,120 --> 00:03:30,565
+"Mrs. K,"
+
+57
+00:03:30,640 --> 00:03:33,723
+"There's some
+magic in your coffee today"
+
+58
+00:03:33,800 --> 00:03:36,724
+"Know this that the heart is smitten,"
+
+59
+00:03:36,800 --> 00:03:39,849
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+60
+00:03:39,920 --> 00:03:42,810
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+61
+00:03:42,880 --> 00:03:46,601
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+62
+00:04:21,320 --> 00:04:24,767
+"Cherish these
+moments, of love unspoken"
+
+63
+00:04:27,440 --> 00:04:31,161
+"Fill each second
+with colours unbroken.."
+
+64
+00:04:33,640 --> 00:04:36,564
+"It's a very simple formula,"
+
+65
+00:04:36,640 --> 00:04:39,962
+"Live your life
+carefree and without brouhaha!"
+
+66
+00:04:42,800 --> 00:04:44,370
+"Hey Hey Hey-T
+
+67
+00:04:44,440 --> 00:04:45,851
+"Mrs. K,"
+
+68
+00:04:45,920 --> 00:04:48,685
+"There's some
+magic in your coffee today"
+
+69
+00:04:48,960 --> 00:04:50,450
+"Hey Hey Hey-T
+
+70
+00:04:50,520 --> 00:04:51,851
+"Mrs. K,"
+
+71
+00:04:52,040 --> 00:04:55,010
+"There's some
+magic in your coffee today"
+
+72
+00:04:55,080 --> 00:04:58,209
+"Life's many colours,
+inexplicable but inviting"
+
+73
+00:04:58,280 --> 00:05:01,284
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+74
+00:05:01,360 --> 00:05:04,250
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+75
+00:05:04,320 --> 00:05:08,120
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+76
+00:05:09,000 --> 00:05:11,731
+"Life is short and
+shaded with many hues,"
+
+77
+00:05:12,080 --> 00:05:14,924
+"Live it like, you
+have nothing to lose.."
+
+78
+00:05:15,160 --> 00:05:18,004
+"Where it may take you,"
+
+79
+00:05:18,240 --> 00:05:21,847
+"on it's journey so far,"
+
+80
+00:05:22,800 --> 00:05:24,245
+"Hey Hey Hey-T
+
+81
+00:05:24,320 --> 00:05:25,731
+"Mrs. K,"
+
+82
+00:05:25,800 --> 00:05:28,849
+"There's some magic
+in your coffee today.."
+
+83
+00:05:29,000 --> 00:05:30,365
+"Hey Hey Hey-T
+
+84
+00:05:30,440 --> 00:05:31,930
+"Mrs. K,"
+
+85
+00:05:32,000 --> 00:05:34,970
+"There's some magic
+in your coffee today.."
+
+86
+00:05:35,040 --> 00:05:37,930
+"Know this that the heart is smitten,"
+
+87
+00:05:38,200 --> 00:05:41,090
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+88
+00:05:41,160 --> 00:05:44,323
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+89
+00:05:44,400 --> 00:05:48,121
+"Coffee in this cafe is
+but an excuse for flirting.."
+
+90
+00:05:50,640 --> 00:05:51,766
+Asshole.
+
+91
+00:05:51,840 --> 00:05:53,080
+Actually I'm the one at fault.
+
+92
+00:05:53,200 --> 00:05:55,885
+I should have
+recognized the sort of man you are.
+
+93
+00:05:57,280 --> 00:05:58,930
+Don't bother, I QUIT!
+
+94
+00:06:17,840 --> 00:06:18,727
+Hi Amaya.
+
+95
+00:06:18,920 --> 00:06:19,887
+How was your day?
+
+96
+00:06:20,000 --> 00:06:20,842
+Don't ask.
+
+97
+00:06:21,680 --> 00:06:22,761
+Okay
+
+98
+00:06:23,680 --> 00:06:26,081
+No Ma, ask me..ask me!
+
+99
+00:06:31,240 --> 00:06:33,322
+Hi Amaya, how was your day?
+
+100
+00:06:36,320 --> 00:06:38,129
+Men are such bastards.
+
+101
+00:06:39,280 --> 00:06:41,009
+They only have one thing on their minds!
+
+102
+00:06:41,080 --> 00:06:41,967
+Sex.
+
+103
+00:06:42,040 --> 00:06:42,927
+Yeah.
+
+104
+00:06:44,240 --> 00:06:45,526
+N--
+
+105
+00:06:45,960 --> 00:06:47,450
+slapped my boss today.
+
+106
+00:06:48,000 --> 00:06:51,641
+Well..now my ex-boss.
+
+107
+00:06:54,040 --> 00:06:55,087
+Good!
+
+108
+00:06:55,440 --> 00:06:58,444
+We'll just re-register
+on jobsearch.com yet again.
+
+109
+00:06:58,640 --> 00:06:59,766
+No problem.
+
+110
+00:07:35,080 --> 00:07:36,161
+So tell me.
+
+111
+00:07:38,240 --> 00:07:39,446
+What did he do?
+
+112
+00:07:41,800 --> 00:07:42,801
+Well,
+
+113
+00:07:45,040 --> 00:07:46,849
+actually he didn't do anything,
+
+114
+00:07:47,640 --> 00:07:49,165
+but he told me to sleep with him.
+
+115
+00:07:53,360 --> 00:07:55,328
+You didn't over-react did you?
+
+116
+00:07:58,600 --> 00:08:00,011
+Ma?!!?
+
+117
+00:08:00,440 --> 00:08:02,010
+So then what are you stressed about?
+
+118
+00:08:02,800 --> 00:08:04,609
+What you did was absolutely right.
+
+119
+00:08:08,880 --> 00:08:10,370
+Spoilt..
+
+120
+00:08:12,320 --> 00:08:14,607
+Mum, have you ever slapped anyone?
+
+121
+00:08:15,080 --> 00:08:17,208
+I mean other than me?
+
+122
+00:08:18,160 --> 00:08:19,127
+No.
+
+123
+00:08:19,640 --> 00:08:20,687
+Why?
+
+124
+00:08:20,760 --> 00:08:22,000
+You never felt like slapping anyone?
+
+125
+00:08:23,160 --> 00:08:24,571
+I did feel like it sometimes,
+
+126
+00:08:24,640 --> 00:08:25,846
+at your father.
+
+127
+00:08:26,120 --> 00:08:27,201
+What are you saying?
+
+128
+00:08:27,560 --> 00:08:28,846
+The two of you fought as well?
+
+129
+00:08:29,280 --> 00:08:30,566
+I don't remember that.
+
+130
+00:08:32,160 --> 00:08:35,130
+Actually, he was too nice for that,
+
+131
+00:08:36,640 --> 00:08:38,130
+which is why I felt like it!
+
+132
+00:08:40,040 --> 00:08:41,485
+Oh..
+
+133
+00:08:41,760 --> 00:08:45,731
+Is that why you
+transferred all you angst to me?!
+
+134
+00:08:48,440 --> 00:08:50,169
+I'm really impulsive aren't I mum?
+
+135
+00:08:50,600 --> 00:08:52,682
+You remember what dad used to say?
+
+136
+00:08:55,840 --> 00:08:57,524
+Live by what you believe in,
+
+137
+00:08:58,080 --> 00:08:59,445
+even if it kills you.
+
+138
+00:09:00,400 --> 00:09:02,050
+The Busy Bazaar..
+
+139
+00:09:05,480 --> 00:09:07,369
+Which is the fool who says,
+
+140
+00:09:07,680 --> 00:09:09,887
+time stops for no one?
+
+141
+00:09:10,240 --> 00:09:12,811
+Look at this clock.
+
+142
+00:09:13,360 --> 00:09:15,124
+It's forever starting and stopping!
+
+143
+00:09:16,240 --> 00:09:19,687
+Every clock here is
+like a traveler of sorts.
+
+144
+00:09:21,080 --> 00:09:25,608
+They stop when they
+want to and go when they wish.
+
+145
+00:09:28,120 --> 00:09:29,770
+It's amazing Rizwaan bhai,
+
+146
+00:09:30,680 --> 00:09:33,365
+It seems like you've given
+life to these inanimate clocks.
+
+147
+00:09:34,040 --> 00:09:35,121
+Sir,
+
+148
+00:09:35,920 --> 00:09:36,807
+what did you think?
+
+149
+00:09:37,600 --> 00:09:39,329
+That these clocks are lifeless?
+
+150
+00:09:40,080 --> 00:09:42,082
+These clocks are the ones that tell us,
+
+151
+00:09:42,160 --> 00:09:44,083
+when we entered this world
+
+152
+00:09:44,160 --> 00:09:47,721
+and when we left it's cloying confines.
+
+153
+00:09:48,440 --> 00:09:50,329
+Here please have some tea.
+
+154
+00:09:53,520 --> 00:09:54,806
+Thank you.
+
+155
+00:09:58,440 --> 00:09:59,930
+Very nice!
+
+156
+00:10:00,800 --> 00:10:02,450
+Tell me something?
+
+157
+00:10:02,760 --> 00:10:04,364
+Sitting in the midst of
+all these different clocks,
+
+158
+00:10:04,440 --> 00:10:06,568
+how do you tell what is the right time?
+
+159
+00:10:08,000 --> 00:10:09,286
+Sir..
+
+160
+00:10:09,680 --> 00:10:11,444
+Who's to say what is
+right and what is wrong?
+
+161
+00:10:12,320 --> 00:10:13,765
+That one moment,
+
+162
+00:10:14,440 --> 00:10:16,010
+spells celebration for someone
+
+163
+00:10:17,000 --> 00:10:18,923
+and mourning for someone else.
+
+164
+00:10:19,200 --> 00:10:20,850
+I actually want to ask you something.
+
+165
+00:10:21,280 --> 00:10:23,362
+Why do you take so many pictures?
+
+166
+00:10:24,280 --> 00:10:27,329
+Well, like you I also play with time.
+
+167
+00:10:28,480 --> 00:10:30,130
+I try to capture
+
+168
+00:10:30,200 --> 00:10:31,611
+every memorable moment as an image.
+
+169
+00:10:31,920 --> 00:10:32,887
+And why's that?
+
+170
+00:10:33,040 --> 00:10:35,691
+So that instead of
+it being only a moment,
+
+171
+00:10:35,760 --> 00:10:37,922
+it remains preserved as
+a beautiful memory instead.
+
+172
+00:10:38,360 --> 00:10:39,282
+Sir..
+
+173
+00:10:40,000 --> 00:10:43,721
+Memories must always
+be preserved in the mind!
+
+174
+00:10:44,600 --> 00:10:47,570
+You can never trust
+the mind either can you?
+
+175
+00:10:48,360 --> 00:10:50,249
+It's getting late, I must leave now..
+
+176
+00:10:50,720 --> 00:10:54,167
+But how will I find your shop again?
+
+177
+00:10:54,520 --> 00:10:57,490
+There is Abdul's
+tea stall on the corner...?
+
+178
+00:10:57,560 --> 00:10:58,243
+Yes, I've seen it.
+
+179
+00:10:58,320 --> 00:11:00,129
+We're just off to it's right.
+
+180
+00:11:00,400 --> 00:11:01,765
+That's easy enough!
+
+181
+00:11:02,440 --> 00:11:05,125
+Whenever the pictures do get printed,
+
+182
+00:11:05,200 --> 00:11:06,964
+do show them to me as well.
+
+183
+00:11:07,040 --> 00:11:09,042
+Absolutely, that remains a promise.
+
+184
+00:11:14,920 --> 00:11:17,685
+So how hard did you actually slap him?
+
+185
+00:11:18,400 --> 00:11:19,367
+Care for a taster?!
+
+186
+00:11:19,600 --> 00:11:20,567
+AMAYA..
+
+187
+00:11:21,560 --> 00:11:23,449
+Relax Ma! I'm only joking!
+
+188
+00:11:24,240 --> 00:11:27,926
+So our resident Joan
+of Arc is now unemployed?
+
+189
+00:11:29,160 --> 00:11:30,446
+Not unemployed Jazz!
+
+190
+00:11:30,680 --> 00:11:32,011
+I'm just taking time off,
+
+191
+00:11:32,080 --> 00:11:33,047
+there's a difference.
+
+192
+00:11:34,080 --> 00:11:37,004
+Well, from where I'm sitting,
+your time off itself looks like,
+
+193
+00:11:37,400 --> 00:11:40,882
+you are now fully
+and completely unemployed!
+
+194
+00:11:41,520 --> 00:11:42,328
+Hmm..
+
+195
+00:11:42,400 --> 00:11:46,007
+That's because
+you've gone completely kooky!
+
+196
+00:11:46,080 --> 00:11:47,445
+Tell me something?
+
+197
+00:11:48,080 --> 00:11:49,809
+Instead of dancing
+on my head all the time,
+
+198
+00:11:49,880 --> 00:11:51,325
+why don't the both of
+you find something else to do?
+
+199
+00:11:51,400 --> 00:11:53,926
+Ms Chamko does have a point there.
+
+200
+00:11:56,880 --> 00:11:58,882
+Patience I say!
+
+201
+00:11:59,160 --> 00:12:01,606
+Creativity does take some time!
+
+202
+00:12:02,680 --> 00:12:04,205
+You know Jazz,
+
+203
+00:12:04,480 --> 00:12:05,686
+when I was working
+
+204
+00:12:05,760 --> 00:12:07,603
+I always said, when I had time,
+
+205
+00:12:07,680 --> 00:12:09,523
+I'd do this and I'd do that.
+
+206
+00:12:09,600 --> 00:12:11,523
+Would you care to elaborate
+
+207
+00:12:11,600 --> 00:12:13,364
+on all of your this's and that's?
+
+208
+00:12:13,680 --> 00:12:15,091
+I want to learn pottery
+
+209
+00:12:15,280 --> 00:12:16,247
+Ok
+
+210
+00:12:16,320 --> 00:12:17,560
+I want to run a marathon
+
+211
+00:12:19,440 --> 00:12:21,283
+And maybe someday,
+
+212
+00:12:21,480 --> 00:12:23,608
+I want to write my own book
+
+213
+00:12:25,320 --> 00:12:26,890
+The first two you
+may still be able to do.
+
+214
+00:12:26,960 --> 00:12:29,042
+But the third you
+may as well forget about!
+
+215
+00:12:29,480 --> 00:12:31,801
+I've been wanting to write a book,
+
+216
+00:12:31,880 --> 00:12:33,245
+since before I knew how to write!
+
+217
+00:12:33,880 --> 00:12:35,245
+So why haven't you done it yet?
+
+218
+00:12:35,320 --> 00:12:36,970
+Because I still don't know how to write!
+
+219
+00:12:37,240 --> 00:12:38,366
+Deal!
+
+220
+00:12:39,200 --> 00:12:41,407
+I'll do the writing
+while you take the pictures..
+
+221
+00:12:41,880 --> 00:12:44,042
+It'll be a really
+cool coffee table book.
+
+222
+00:12:45,280 --> 00:12:46,805
+It's not a very bad idea!
+
+223
+00:12:47,520 --> 00:12:50,524
+Now that's all that was left to do!
+
+224
+00:12:52,320 --> 00:12:53,685
+My coffee.
+
+225
+00:12:53,960 --> 00:12:54,961
+My table.
+
+226
+00:12:55,240 --> 00:12:56,571
+And your coffee table book?
+
+227
+00:12:57,320 --> 00:12:59,448
+It'll lie here forgotten
+on these very book shelves.
+
+228
+00:13:00,520 --> 00:13:02,045
+How mean mama!
+
+229
+00:13:02,120 --> 00:13:03,326
+Spoilsport.
+
+230
+00:13:03,560 --> 00:13:05,210
+A veritable fountain of encouragement!
+
+231
+00:13:08,400 --> 00:13:10,209
+Hi! Sorry, sorry!!
+
+232
+00:13:10,280 --> 00:13:13,329
+How do you manage
+to be late, all the time?
+
+233
+00:13:13,680 --> 00:13:14,806
+Dude..
+
+234
+00:13:15,040 --> 00:13:17,884
+There's still ten
+minutes till the movie begins..
+
+235
+00:13:17,960 --> 00:13:19,007
+Let it be.
+
+236
+00:13:19,800 --> 00:13:20,801
+Ok guys.
+
+237
+00:13:21,000 --> 00:13:22,001
+Guess what?
+
+238
+00:13:22,800 --> 00:13:23,722
+Announcement.
+
+239
+00:13:24,200 --> 00:13:26,282
+I'm writing a book with Jazz!
+
+240
+00:13:28,400 --> 00:13:30,164
+Good job!
+
+241
+00:13:31,400 --> 00:13:32,845
+Who's Jazz?
+
+242
+00:13:33,600 --> 00:13:35,921
+Jayant..you've met him
+at the cafe the other day.
+
+243
+00:13:36,280 --> 00:13:37,850
+Oh! that Jazz..
+
+244
+00:13:37,960 --> 00:13:40,167
+Yes..that Jazz!
+
+245
+00:13:40,400 --> 00:13:42,528
+He likes aunty doesn't he?
+
+246
+00:13:45,600 --> 00:13:46,726
+Are you mad?
+
+247
+00:13:51,560 --> 00:13:52,800
+Since it's your first time,
+
+248
+00:13:52,920 --> 00:13:54,160
+This is on the house.
+
+249
+00:13:54,480 --> 00:13:55,447
+Thank you,
+
+250
+00:13:55,520 --> 00:13:58,000
+Indian hospitality
+really knows no bounds!
+
+251
+00:13:58,080 --> 00:13:59,809
+This is not hospitality.
+
+252
+00:13:59,880 --> 00:14:01,405
+This is good business sense,
+
+253
+00:14:01,720 --> 00:14:03,802
+now you'll definitely come back!
+
+254
+00:14:04,120 --> 00:14:06,646
+I'm about to set up camp here.
+
+255
+00:14:06,800 --> 00:14:07,722
+Oh good.
+
+256
+00:14:07,960 --> 00:14:11,681
+Would you actually have a
+vacancy for a waiter or the like?
+
+257
+00:14:11,760 --> 00:14:14,604
+My wife might be a
+little over qualified but..
+
+258
+00:14:14,680 --> 00:14:16,250
+Don't mind my husband.
+
+259
+00:14:16,840 --> 00:14:18,330
+Abhay is an ass.
+
+260
+00:14:18,400 --> 00:14:19,447
+Oops.
+
+261
+00:14:19,960 --> 00:14:22,167
+I never judge a book by it's cover.
+
+262
+00:14:22,240 --> 00:14:22,968
+Thank you!
+
+263
+00:14:23,040 --> 00:14:25,691
+But really! You're living my dream.
+
+264
+00:14:26,080 --> 00:14:27,764
+In fact we only came in because
+
+265
+00:14:27,840 --> 00:14:30,047
+we were so intrigued
+by the name of your cafe!
+
+266
+00:14:30,120 --> 00:14:31,246
+<i>You know, me cam may be mine,</i>
+
+267
+00:14:31,320 --> 00:14:32,287
+but it was christened by my daughter!
+
+268
+00:14:32,360 --> 00:14:34,089
+Very interesting.
+
+269
+00:14:34,720 --> 00:14:37,087
+And you've really travelled the world.
+
+270
+00:14:38,480 --> 00:14:40,847
+Actually, not really.
+
+271
+00:14:41,520 --> 00:14:45,684
+These are all pictures of
+people who came here as strangers,
+
+272
+00:14:45,760 --> 00:14:47,762
+But left as lifelong friends.
+
+273
+00:14:48,360 --> 00:14:49,247
+Let me show you.
+
+274
+00:14:49,320 --> 00:14:51,800
+This is Cindy, she's from Peru.
+
+275
+00:14:52,880 --> 00:14:55,690
+Leave alone Hindi, she
+could barely speak English!
+
+276
+00:14:55,960 --> 00:14:58,645
+But you know, she's
+told me so much about Peru,
+
+277
+00:14:58,720 --> 00:15:01,371
+that it feels like I
+know the country inside out.
+
+278
+00:15:01,560 --> 00:15:02,800
+It's amazing!
+
+279
+00:15:02,920 --> 00:15:04,160
+That's great!
+
+280
+00:15:04,400 --> 00:15:07,131
+It sounds like you
+get to travel the world,
+
+281
+00:15:07,400 --> 00:15:09,448
+without having to leave the cafe at all!
+
+282
+00:15:09,600 --> 00:15:11,364
+Actually that is true!
+
+283
+00:15:11,600 --> 00:15:15,241
+There's something
+special about this little cafe".
+
+284
+00:15:19,160 --> 00:15:21,527
+Is this your daughter?
+
+285
+00:15:21,840 --> 00:15:22,602
+Yes
+
+286
+00:15:22,680 --> 00:15:23,442
+How do you know?
+
+287
+00:15:23,640 --> 00:15:25,369
+She has your eyes..
+
+288
+00:15:25,600 --> 00:15:26,965
+What does she do?
+
+289
+00:15:27,160 --> 00:15:28,241
+She does a lot of things!
+
+290
+00:15:28,560 --> 00:15:30,881
+She's a full time writer,
+
+291
+00:15:31,440 --> 00:15:33,044
+Part time cafe manager,
+
+292
+00:15:33,200 --> 00:15:34,167
+But..
+
+293
+00:15:34,320 --> 00:15:35,924
+At heart, Amaya is a..
+
+294
+00:15:36,520 --> 00:15:37,760
+Free spirit!
+
+295
+00:15:45,320 --> 00:15:47,163
+"The mind knows no boundaries"
+
+296
+00:15:47,240 --> 00:15:49,322
+"Dreams have no walls"
+
+297
+00:15:49,400 --> 00:15:51,164
+"They walk hand in hand"
+
+298
+00:15:51,240 --> 00:15:54,210
+"As you follow where life calls.."
+
+299
+00:15:57,160 --> 00:15:58,969
+"The mind knows no boundaries"
+
+300
+00:15:59,040 --> 00:16:01,088
+"Dreams have no walls"
+
+301
+00:16:01,160 --> 00:16:02,889
+"They walk hand in hand"
+
+302
+00:16:02,960 --> 00:16:05,566
+"As you follow where life calls.."
+
+303
+00:16:08,080 --> 00:16:09,445
+You can read later,
+
+304
+00:16:09,520 --> 00:16:11,204
+let's concentrate on
+writing our book first.
+
+305
+00:16:11,800 --> 00:16:12,801
+Jazz..
+
+306
+00:16:13,000 --> 00:16:13,762
+This is a story of a weasel.
+
+307
+00:16:13,840 --> 00:16:15,285
+Don't waste time on
+stupid books! Lets go.
+
+308
+00:16:15,360 --> 00:16:16,088
+We must buy this one!
+
+309
+00:16:16,160 --> 00:16:17,491
+I said, get up!
+
+310
+00:16:17,880 --> 00:16:18,802
+Jazz!
+
+311
+00:16:18,880 --> 00:16:19,961
+It's a great title for our book.
+
+312
+00:16:20,040 --> 00:16:21,246
+Weasel on a hot tin roof!
+
+313
+00:16:21,960 --> 00:16:23,644
+This seems to be older than me also!
+
+314
+00:16:23,720 --> 00:16:25,165
+Will this camera work?
+
+315
+00:16:26,080 --> 00:16:28,731
+It might, or it might not!
+
+316
+00:16:28,800 --> 00:16:32,566
+"Open skies above me"
+
+317
+00:16:32,640 --> 00:16:36,042
+"Not a corner to be seen
+
+318
+00:16:36,360 --> 00:16:40,160
+"A gentle breeze flows past free"
+
+319
+00:16:40,520 --> 00:16:44,002
+"Directionless but so happily keen"
+
+320
+00:16:44,360 --> 00:16:46,283
+"if I could only fly"
+
+321
+00:16:46,360 --> 00:16:49,842
+"Like those birds soaring high"
+
+322
+00:16:52,240 --> 00:16:54,049
+"Knowing them as I sail by"
+
+323
+00:16:54,120 --> 00:16:58,284
+"Speaking their
+language, not being shy
+
+324
+00:17:02,280 --> 00:17:03,691
+"Those many sun kissed lanes"
+
+325
+00:17:03,760 --> 00:17:06,047
+"From where the breeze whispers out"
+
+326
+00:17:06,120 --> 00:17:08,009
+"Dancing lightly as sprinkling rain"
+
+327
+00:17:08,080 --> 00:17:11,084
+"Kissing lips that curl in a pout"
+
+328
+00:17:14,080 --> 00:17:15,969
+"The mind knows no boundaries"
+
+329
+00:17:16,040 --> 00:17:17,963
+"Dreams have no walls"
+
+330
+00:17:18,040 --> 00:17:19,849
+"They walk hand in hand"
+
+331
+00:17:19,920 --> 00:17:22,526
+"As you follow where life calls.."
+
+332
+00:17:23,320 --> 00:17:24,401
+Hi Leela!
+
+333
+00:17:24,520 --> 00:17:25,487
+Hi Jayant.
+
+334
+00:17:25,560 --> 00:17:27,847
+We're on our way to the famous
+stuffed flat bread lane in Chandni Chowk.
+
+335
+00:17:27,920 --> 00:17:29,445
+To eat there?
+
+336
+00:17:29,640 --> 00:17:30,402
+No..
+
+337
+00:17:30,480 --> 00:17:33,006
+To buy chickens and sell eggs instead!
+
+338
+00:17:33,080 --> 00:17:35,321
+And before you ask,
+
+339
+00:17:35,400 --> 00:17:36,970
+Your daughter is safe and well.
+
+340
+00:17:37,040 --> 00:17:39,122
+You have
+absolutely no cause for concern.
+
+341
+00:17:46,080 --> 00:17:48,128
+You know, when I was a child,
+
+342
+00:17:48,200 --> 00:17:49,690
+we used to come here very often.
+
+343
+00:17:49,800 --> 00:17:51,643
+This was dad's favorite Sunday outing.
+
+344
+00:17:51,720 --> 00:17:54,405
+In fact, I even started to write here.
+
+345
+00:17:55,440 --> 00:17:56,771
+The Busy Bazaar.
+
+346
+00:17:56,840 --> 00:17:58,126
+My first story,
+
+347
+00:17:58,360 --> 00:18:00,442
+I was nine years old.
+
+348
+00:18:01,160 --> 00:18:02,207
+Dad read the story,
+
+349
+00:18:02,280 --> 00:18:03,691
+and asked me to change the way it ended.
+
+350
+00:18:03,760 --> 00:18:04,886
+But I didn't change it,
+
+351
+00:18:04,960 --> 00:18:06,883
+Because I believed in my story.
+
+352
+00:18:09,160 --> 00:18:10,491
+You know, that day
+
+353
+00:18:11,080 --> 00:18:13,367
+my father became my biggest fan.
+
+354
+00:18:14,440 --> 00:18:15,282
+He used to say,
+
+355
+00:18:15,360 --> 00:18:17,442
+the day your first book gets published,
+
+356
+00:18:17,520 --> 00:18:19,727
+we'll celebrate it with Champagne.
+
+357
+00:18:21,080 --> 00:18:22,969
+I guess he just ran out of time.
+
+358
+00:18:25,960 --> 00:18:28,884
+Come, I want you to
+meet a very interesting man.
+
+359
+00:18:29,800 --> 00:18:30,687
+He repairs old clocks,
+
+360
+00:18:30,760 --> 00:18:32,683
+his shop is somewhere close by.
+
+361
+00:18:32,840 --> 00:18:36,128
+"Hold on to these memories"
+
+362
+00:18:36,400 --> 00:18:40,121
+"Fragrant, fresh moments all"
+
+363
+00:18:40,440 --> 00:18:44,081
+"May they never
+fade like a dying breeze"
+
+364
+00:18:44,360 --> 00:18:47,842
+"These precious moments of recall"
+
+365
+00:18:48,400 --> 00:18:50,368
+"Lock up these special moments"
+
+366
+00:18:50,440 --> 00:18:54,206
+"Deep inside our heart"
+
+367
+00:18:56,320 --> 00:18:58,084
+"Telling others our stories"
+
+368
+00:18:58,160 --> 00:19:02,245
+"When they come out of the dark"
+
+369
+00:19:06,200 --> 00:19:07,725
+"The hope of every morning"
+
+370
+00:19:07,800 --> 00:19:10,246
+"As windows open to the suns rays"
+
+371
+00:19:10,320 --> 00:19:11,651
+"Like gentle dew drops forming"
+
+372
+00:19:11,720 --> 00:19:15,361
+"That today shall be a wondrous day"
+
+373
+00:19:18,080 --> 00:19:19,969
+"The mind knows no boundaries"
+
+374
+00:19:20,040 --> 00:19:22,042
+"Dreams have no walls"
+
+375
+00:19:22,120 --> 00:19:24,009
+"They walk hand in hand"
+
+376
+00:19:24,080 --> 00:19:27,129
+"As you follow where life calls.."
+
+377
+00:19:36,800 --> 00:19:38,928
+Lets go Aditi,
+we'll come some other time.
+
+378
+00:19:46,880 --> 00:19:50,362
+'Memories must be
+preserved in the mind!'
+
+379
+00:19:54,160 --> 00:19:55,286
+'That one moment,
+spells celebration for someone'
+
+380
+00:19:55,360 --> 00:19:57,010
+'and mourning for someone else.'
+
+381
+00:20:00,520 --> 00:20:03,967
+'There is Abdul's
+tea stall on the corner...?'
+
+382
+00:20:23,440 --> 00:20:25,283
+Happy birthday Ma!!
+
+383
+00:20:25,880 --> 00:20:28,087
+Oh! My God!
+
+384
+00:20:29,880 --> 00:20:31,450
+Thank you.
+
+385
+00:20:33,440 --> 00:20:34,930
+Thanks.
+
+386
+00:20:39,320 --> 00:20:40,731
+Open it.
+
+387
+00:20:43,800 --> 00:20:46,929
+Oh, this is nice..
+
+388
+00:20:47,000 --> 00:20:48,161
+You like it?
+
+389
+00:20:48,640 --> 00:20:50,210
+Can I borrow it?
+
+390
+00:20:51,440 --> 00:20:52,851
+Yes..
+
+391
+00:20:56,280 --> 00:20:58,726
+So, what did you'll do yesterday?
+
+392
+00:20:58,920 --> 00:21:00,524
+I completely filled my dictaphone,
+
+393
+00:21:00,600 --> 00:21:02,967
+while Jazz filled all 4 of
+his memory cards with pictures
+
+394
+00:21:04,280 --> 00:21:07,011
+You know Ma, Jazz
+is actually pretty cool.
+
+395
+00:21:07,880 --> 00:21:10,008
+He makes friends so easily!
+
+396
+00:21:10,320 --> 00:21:12,163
+In a place like Chandni Chowk,
+
+397
+00:21:12,240 --> 00:21:14,925
+he knew every lane
+and every shop in it..
+
+398
+00:21:15,280 --> 00:21:17,328
+Except for this one
+shop, he couldn't find.
+
+399
+00:21:23,840 --> 00:21:25,365
+Speak of the Devil! - Hello?
+
+400
+00:21:25,440 --> 00:21:27,124
+So what is it that
+I'm supposed to say today?
+
+401
+00:21:27,360 --> 00:21:28,486
+Happy Birthday!
+
+402
+00:21:28,760 --> 00:21:29,841
+Thank you.
+
+403
+00:21:30,520 --> 00:21:32,488
+You're being
+praised to the high heavens.
+
+404
+00:21:32,560 --> 00:21:35,166
+Please tell her that I
+also had a very good time.
+
+405
+00:21:35,240 --> 00:21:37,766
+Why don't you tell her
+yourself when you get here?
+
+406
+00:21:38,080 --> 00:21:39,730
+Qkay..bye.
+
+407
+00:21:47,960 --> 00:21:49,610
+Ma, how old was Aditi?
+
+408
+00:21:53,040 --> 00:21:54,405
+Eight or nine. Why do you ask?
+
+409
+00:21:58,320 --> 00:22:01,051
+Jazz suddenly called me Aditi yesterday.
+
+410
+00:22:13,120 --> 00:22:14,770
+Aunty, please hand me the knife.
+
+411
+00:22:14,840 --> 00:22:16,490
+Hand it over right now.
+
+412
+00:22:17,280 --> 00:22:18,406
+What do you want to do with it?
+
+413
+00:22:19,040 --> 00:22:19,723
+I want to commit suicide.
+
+414
+00:22:19,800 --> 00:22:22,326
+Oh! One second..
+
+415
+00:22:23,160 --> 00:22:25,606
+Use this one, this
+will work much better.
+
+416
+00:22:27,840 --> 00:22:30,286
+Aunty? You're finding this funny?
+
+417
+00:22:31,120 --> 00:22:32,167
+I mean look at me.
+
+418
+00:22:32,240 --> 00:22:34,720
+I'm good looking,
+handsome, tall, Intelligent.
+
+419
+00:22:34,800 --> 00:22:36,325
+With an IQ of over 220
+
+420
+00:22:36,560 --> 00:22:37,482
+I even have a six pack..
+
+421
+00:22:37,560 --> 00:22:38,561
+Care to see?
+
+422
+00:22:38,960 --> 00:22:40,530
+And above all aunty,
+
+423
+00:22:40,600 --> 00:22:41,931
+I'm so modest too.
+
+424
+00:22:42,520 --> 00:22:45,967
+I love your daughter so much.
+
+425
+00:22:46,640 --> 00:22:48,563
+And she, doesn't
+give me the time of day.
+
+426
+00:22:48,800 --> 00:22:50,006
+Hmm..
+
+427
+00:22:50,560 --> 00:22:51,721
+Hmm?
+
+428
+00:22:51,920 --> 00:22:53,126
+Hmmm?
+
+429
+00:22:53,400 --> 00:22:55,084
+All I get is a hmm?
+
+430
+00:22:57,040 --> 00:22:58,121
+Aunty don't just say hmm..
+
+431
+00:22:58,200 --> 00:22:59,804
+Please do something.
+
+432
+00:23:02,160 --> 00:23:04,208
+Oh God, he's here again..
+
+433
+00:23:08,800 --> 00:23:09,926
+Hi Amaya!
+
+434
+00:23:10,120 --> 00:23:11,281
+Bye Raghav!
+
+435
+00:23:12,040 --> 00:23:13,007
+Good morning Guruji.
+
+436
+00:23:13,080 --> 00:23:14,923
+Bless you my child, bless you!
+
+437
+00:23:16,320 --> 00:23:17,162
+Mum, I'll be back in awhile
+
+438
+00:23:17,240 --> 00:23:18,890
+can you please not
+entertain this Orangutan..
+
+439
+00:23:20,160 --> 00:23:22,242
+Come on..lets go, lets go.
+
+440
+00:23:22,720 --> 00:23:23,687
+Aunty,
+
+441
+00:23:23,960 --> 00:23:25,610
+I really love Amaya.
+
+442
+00:23:25,840 --> 00:23:26,727
+<i>Raghav ,</i>
+
+443
+00:23:26,800 --> 00:23:28,484
+I really love Amaya too.
+
+444
+00:23:32,360 --> 00:23:35,443
+Jayant uncle, bless me please.
+
+445
+00:23:36,360 --> 00:23:37,885
+Whatever dude.
+
+446
+00:23:41,160 --> 00:23:42,446
+He's a really nice boy
+
+447
+00:23:43,280 --> 00:23:45,760
+and you know, he's crazy about Amaya.
+
+448
+00:23:46,840 --> 00:23:49,320
+But that is
+historically true of this place.
+
+449
+00:23:50,120 --> 00:23:51,246
+Whoever comes here,
+
+450
+00:23:51,320 --> 00:23:53,448
+either falls for the daughter
+
+451
+00:23:53,760 --> 00:23:55,364
+or the mother instead!
+
+452
+00:23:58,720 --> 00:24:00,165
+What was this boy's name?
+
+453
+00:24:03,160 --> 00:24:04,161
+Raghav
+
+454
+00:24:06,040 --> 00:24:06,882
+That's right,
+
+455
+00:24:08,440 --> 00:24:09,601
+Raghav..
+
+456
+00:24:09,880 --> 00:24:11,041
+Correct.
+
+457
+00:24:16,800 --> 00:24:17,926
+Okay.
+
+458
+00:24:19,240 --> 00:24:20,401
+Show me.
+
+459
+00:24:21,960 --> 00:24:23,371
+I'll show you a fantastic picture.
+
+460
+00:24:23,640 --> 00:24:24,880
+Actually"
+
+461
+00:24:26,000 --> 00:24:27,286
+You know Jayant,
+
+462
+00:24:27,360 --> 00:24:30,045
+I'm so glad Amaya's really fond of you.
+
+463
+00:24:33,320 --> 00:24:34,765
+It won't be easy though.
+
+464
+00:24:36,080 --> 00:24:37,411
+I know,
+
+465
+00:24:37,800 --> 00:24:39,040
+but I know Amaya too.
+
+466
+00:24:39,640 --> 00:24:40,801
+She'll handle it.
+
+467
+00:24:50,800 --> 00:24:53,849
+Ma..should I wear
+this sari to Priya's wedding?
+
+468
+00:24:54,200 --> 00:24:56,680
+Priya? Finally?
+
+469
+00:24:56,760 --> 00:25:00,560
+But doesn't Nishant
+look a lot older than her?
+
+470
+00:25:00,760 --> 00:25:01,522
+Err yeah.
+
+471
+00:25:01,600 --> 00:25:03,602
+Because Priya is only
+20 years younger to him!
+
+472
+00:25:03,840 --> 00:25:05,251
+What do you expect?
+
+473
+00:25:05,320 --> 00:25:07,288
+But don't they look so good together?
+
+474
+00:25:10,120 --> 00:25:12,361
+No I need to give
+you something brighter.
+
+475
+00:25:12,440 --> 00:25:13,248
+Why?
+
+476
+00:25:13,320 --> 00:25:14,526
+It's a marriage not a funeral!
+
+477
+00:25:14,600 --> 00:25:16,170
+But I like black!
+
+478
+00:25:20,640 --> 00:25:21,687
+More books
+
+479
+00:25:21,760 --> 00:25:22,921
+for Book a Coffee!
+
+480
+00:25:23,520 --> 00:25:24,851
+Hi, I'm Devika
+
+481
+00:25:24,920 --> 00:25:26,410
+- Hi! -Abhay.
+
+482
+00:25:26,480 --> 00:25:27,720
+Hi, I'm Amaya
+
+483
+00:25:27,800 --> 00:25:30,565
+Yeah we know, the free spirit"?
+
+484
+00:25:30,640 --> 00:25:32,051
+Oh!
+
+485
+00:25:32,320 --> 00:25:34,971
+So, you've met my mother before?
+
+486
+00:25:39,000 --> 00:25:40,445
+- Here. - Thanks.
+
+487
+00:25:40,640 --> 00:25:42,881
+So tell me, how did you decide to return
+
+488
+00:25:42,960 --> 00:25:44,564
+from America after ten years?
+
+489
+00:25:45,320 --> 00:25:47,482
+Devika wanted to open a clinic here,
+
+490
+00:25:47,800 --> 00:25:49,768
+and after all, there's
+nothing like being home, is there?
+
+491
+00:25:50,000 --> 00:25:52,651
+It's just a matter of
+getting used to living here again.
+
+492
+00:25:52,920 --> 00:25:55,287
+Why? Aren't you enjoying living here?
+
+493
+00:25:55,360 --> 00:25:58,125
+No, it's not that.
+
+494
+00:25:58,200 --> 00:26:01,886
+Our friends had
+warned us before we re-located
+
+495
+00:26:01,960 --> 00:26:04,691
+about the system here..
+
+496
+00:26:04,760 --> 00:26:06,808
+The famous Indian system
+
+497
+00:26:06,880 --> 00:26:09,201
+Look, I've made my peace with it,
+
+498
+00:26:09,520 --> 00:26:10,965
+If by greasing a few palms,
+
+499
+00:26:11,040 --> 00:26:12,280
+it makes life easier all around,
+
+500
+00:26:12,360 --> 00:26:14,249
+then do it. Everybody does it..
+
+501
+00:26:14,320 --> 00:26:15,810
+So basically, you've
+taken the easy way out?
+
+502
+00:26:15,880 --> 00:26:17,450
+C'mon Amaya, he's got a point!
+
+503
+00:26:17,520 --> 00:26:18,601
+What point Ma?
+
+504
+00:26:18,680 --> 00:26:20,444
+Everyone makes this
+point, it's very convenient.
+
+505
+00:26:20,520 --> 00:26:22,409
+Which is why nothing changes here.
+
+506
+00:26:22,480 --> 00:26:24,960
+Amaya, it's not like
+I'm supporting corruption.
+
+507
+00:26:25,040 --> 00:26:25,609
+Well!
+
+508
+00:26:25,680 --> 00:26:27,523
+Your logic is exactly like
+you're supporting corruption!
+
+509
+00:26:27,600 --> 00:26:29,967
+Abhay, who have you tangled with?
+
+510
+00:26:30,040 --> 00:26:30,927
+You know Amaya and my husband..
+
+511
+00:26:31,000 --> 00:26:31,887
+What's this?
+
+512
+00:26:31,960 --> 00:26:34,566
+The party's already started
+
+513
+00:26:34,640 --> 00:26:37,007
+and I wasn't even informed!
+
+514
+00:26:37,960 --> 00:26:39,086
+Hi, Jayant Sinha.
+
+515
+00:26:39,160 --> 00:26:41,367
+Abhay..my wife Devika.
+
+516
+00:26:42,080 --> 00:26:44,845
+Happy Birthday to you,
+
+517
+00:26:44,920 --> 00:26:47,127
+we have a cake here for you.
+
+518
+00:26:47,200 --> 00:26:48,804
+Raghav, even you knew?
+
+519
+00:26:48,880 --> 00:26:51,121
+Happy Birthday aunty Leela.
+
+520
+00:26:51,800 --> 00:26:53,689
+Happy birthday to you.
+
+521
+00:26:53,760 --> 00:26:54,807
+Happy birthday!
+
+522
+00:26:54,880 --> 00:26:55,927
+Thank you!
+
+523
+00:26:56,840 --> 00:26:58,080
+Whenever you
+manage to stand up straight,
+
+524
+00:26:58,160 --> 00:26:59,400
+I'd like to have a word with you.
+
+525
+00:26:59,560 --> 00:27:01,005
+Are you only planning to party,
+
+526
+00:27:01,080 --> 00:27:03,082
+or are there any ideas for the book too?
+
+527
+00:27:03,240 --> 00:27:04,571
+No actually, I've been unwell.
+
+528
+00:27:04,640 --> 00:27:05,687
+I've got Writer's block!
+
+529
+00:27:05,760 --> 00:27:07,683
+When people move as violently as you do,
+
+530
+00:27:07,760 --> 00:27:09,330
+things are bound to
+go wrong all the time!
+
+531
+00:27:10,080 --> 00:27:12,287
+Ever since we spoke the other day,
+
+532
+00:27:12,480 --> 00:27:14,403
+I've come up with a fantastic idea.
+
+533
+00:27:14,720 --> 00:27:15,767
+What?
+
+534
+00:27:15,840 --> 00:27:18,605
+To really get to know someone well,
+
+535
+00:27:18,680 --> 00:27:21,445
+you must dig down and
+peer into their memories.
+
+536
+00:27:22,360 --> 00:27:25,648
+So, why don't you
+write a book about memories?
+
+537
+00:27:26,040 --> 00:27:27,246
+Something like..
+
+538
+00:27:27,320 --> 00:27:29,049
+We'll write it
+
+539
+00:27:29,920 --> 00:27:32,207
+“Memories of the Busy Bazaar“
+
+540
+00:27:32,800 --> 00:27:35,167
+ls your husband a writer too?
+
+541
+00:29:43,120 --> 00:29:44,167
+Hello?
+
+542
+00:29:45,800 --> 00:29:48,280
+Sorry, I think I've
+dialed the wrong number.
+
+543
+00:29:51,080 --> 00:29:53,003
+Cafe's shut today?
+
+544
+00:29:53,400 --> 00:29:54,526
+What's happened?
+
+545
+00:29:55,200 --> 00:29:57,601
+Because we're going to lunch out.
+
+546
+00:29:58,320 --> 00:29:59,526
+Are we going to eat Biryani?
+
+547
+00:29:59,600 --> 00:30:01,011
+That I can do even at home!
+
+548
+00:30:01,640 --> 00:30:02,482
+You are going to make Biryani?
+
+549
+00:30:02,560 --> 00:30:04,130
+Then we're definitely
+going to lunch out today.
+
+550
+00:30:04,440 --> 00:30:06,044
+C'mon Ma, I'm not that bad!
+
+551
+00:30:06,320 --> 00:30:07,446
+Quite bad..
+
+552
+00:30:08,280 --> 00:30:10,442
+Quite bad. Nonsense.
+
+553
+00:30:13,720 --> 00:30:15,006
+Dad used to always measure out spices
+
+554
+00:30:15,080 --> 00:30:16,809
+using his fingers.
+
+555
+00:30:17,160 --> 00:30:18,844
+You remember that?
+
+556
+00:30:21,080 --> 00:30:22,241
+And I also remember
+
+557
+00:30:22,320 --> 00:30:24,482
+that he made
+better Biryani than you too!
+
+558
+00:30:24,960 --> 00:30:26,166
+Rubbish.
+
+559
+00:30:29,560 --> 00:30:31,403
+Dad was such a great guy.
+
+560
+00:30:33,400 --> 00:30:37,166
+I think, they just
+don't make men like him anymore.
+
+561
+00:30:43,680 --> 00:30:46,001
+Now don't get all sentimental on me!
+
+562
+00:30:47,840 --> 00:30:49,444
+I'm the one getting sentimental?
+
+563
+00:30:54,840 --> 00:30:56,171
+Okay lets see..
+
+564
+00:30:56,240 --> 00:30:57,366
+IT'S BURNING!!!
+
+565
+00:31:25,280 --> 00:31:26,327
+WOW!
+
+566
+00:31:27,840 --> 00:31:28,807
+Come and sit.
+
+567
+00:31:29,000 --> 00:31:30,764
+I also want to speak with you..
+
+568
+00:31:32,800 --> 00:31:33,961
+Amaya just see..
+
+569
+00:31:37,720 --> 00:31:39,006
+It's Jazz.
+
+570
+00:31:39,600 --> 00:31:40,681
+So take the call.
+
+571
+00:31:44,920 --> 00:31:46,365
+You take the call yourself..
+
+572
+00:31:49,320 --> 00:31:50,560
+Hello?
+
+573
+00:31:51,120 --> 00:31:51,848
+Where are you?
+
+574
+00:31:51,920 --> 00:31:52,569
+Where do you think, but at home...?
+
+575
+00:31:52,640 --> 00:31:54,244
+Why are you sounding so angry?
+
+576
+00:31:54,320 --> 00:31:55,810
+I've lost my mobile phone.
+
+577
+00:31:55,880 --> 00:31:56,767
+Where?
+
+578
+00:31:57,040 --> 00:31:59,247
+Sorry, silly question.
+
+579
+00:31:59,480 --> 00:32:00,481
+What are you'll up to?
+
+580
+00:32:00,600 --> 00:32:01,567
+Eating lunch,
+
+581
+00:32:01,760 --> 00:32:03,444
+special Amaya biryani.
+
+582
+00:32:03,840 --> 00:32:06,286
+Does Amaya plan on only cooking biryani,
+
+583
+00:32:06,360 --> 00:32:07,885
+or does she plan on
+starting to write as well?
+
+584
+00:32:07,960 --> 00:32:10,088
+Yeah, she's writing too"
+
+585
+00:32:11,480 --> 00:32:12,561
+Oh shucks..
+
+586
+00:32:12,640 --> 00:32:14,449
+Jayant I'll just call you back.
+
+587
+00:32:29,320 --> 00:32:30,890
+Ma, I can't get this right.
+
+588
+00:32:30,960 --> 00:32:32,724
+Oh! You look lovely!
+
+589
+00:32:33,440 --> 00:32:34,965
+Are you going out somewhere?
+
+590
+00:32:35,160 --> 00:32:37,049
+Jayant and I are going out to dinner.
+
+591
+00:32:37,960 --> 00:32:39,086
+Come..
+
+592
+00:32:52,040 --> 00:32:53,485
+We can give you a lift.
+
+593
+00:32:53,560 --> 00:32:56,166
+No need. I'm going with my friends.
+
+594
+00:32:58,200 --> 00:32:59,326
+Okay. Have fun.
+
+595
+00:33:00,520 --> 00:33:03,091
+Please congratulate Priya
+and Nishant on my behalf as well.
+
+596
+00:33:03,160 --> 00:33:04,207
+Bye.
+
+597
+00:33:09,280 --> 00:33:10,611
+Bye..
+
+598
+00:33:15,560 --> 00:33:16,925
+Thank you.
+
+599
+00:33:18,760 --> 00:33:21,445
+I have only one major regret in my life,
+
+600
+00:33:22,040 --> 00:33:23,166
+I haven't travelled..
+
+601
+00:33:24,880 --> 00:33:26,882
+I met an Australian the other day..
+
+602
+00:33:27,840 --> 00:33:30,446
+She would be older than you also!
+
+603
+00:33:31,120 --> 00:33:33,964
+She'd bought a one
+way ticket around the world.
+
+604
+00:33:34,480 --> 00:33:36,482
+And no plan, nothing.
+
+605
+00:33:36,680 --> 00:33:39,604
+She left when she wanted
+to, and if she liked a place,
+
+606
+00:33:39,680 --> 00:33:41,842
+she just stayed as long as she desired!
+
+607
+00:33:41,920 --> 00:33:43,410
+The quintessential traveler!
+
+608
+00:33:44,840 --> 00:33:46,126
+I envied her..
+
+609
+00:33:46,360 --> 00:33:48,522
+I so envied her.
+
+610
+00:33:50,200 --> 00:33:52,601
+We'll travel the world together Leela,
+
+611
+00:33:53,240 --> 00:33:54,730
+the whole world.
+
+612
+00:33:55,680 --> 00:33:57,125
+You and me together.
+
+613
+00:34:07,000 --> 00:34:09,765
+Even Madhavi and Aditi loved to travel.
+
+614
+00:34:12,040 --> 00:34:13,929
+It was Aditi's spring break,
+
+615
+00:34:14,680 --> 00:34:18,685
+so we left for
+Ranikhet, early in the morning.
+
+616
+00:34:20,680 --> 00:34:22,603
+There used to be a
+small restaurant on the way,
+
+617
+00:34:22,680 --> 00:34:24,648
+where Madhavi loved to stop for tea.
+
+618
+00:34:25,040 --> 00:34:26,610
+So we stopped"
+
+619
+00:34:29,320 --> 00:34:31,926
+Aditi was asleep on the seat behind,
+
+620
+00:34:34,920 --> 00:34:36,410
+so I opened the door
+
+621
+00:34:37,880 --> 00:34:39,450
+and picked her up in my arms.
+
+622
+00:34:46,480 --> 00:34:48,960
+Madhavi said, lets
+leave after a cup of tea.
+
+623
+00:34:50,280 --> 00:34:52,089
+Since Aditi woke up hungry,
+
+624
+00:34:52,720 --> 00:34:54,245
+I asked them
+
+625
+00:34:54,840 --> 00:34:57,764
+to fetch sandwiches lying in the car.
+
+626
+00:34:59,120 --> 00:35:01,327
+I was loading a new
+roll of film in the camera.
+
+627
+00:35:05,280 --> 00:35:06,884
+It suddenly started
+to pour down with rain,
+
+628
+00:35:06,960 --> 00:35:10,601
+so, I asked them to stay in the car,
+
+629
+00:35:10,680 --> 00:35:12,205
+while I paid up.
+
+630
+00:35:17,040 --> 00:35:18,610
+As I turned to leave after paying,
+
+631
+00:35:18,680 --> 00:35:23,049
+I saw a truck speeding towards our car.
+
+632
+00:35:24,360 --> 00:35:28,570
+Before I could say or do anything"
+
+633
+00:35:30,120 --> 00:35:32,361
+It crashed straight into our car.
+
+634
+00:35:36,200 --> 00:35:38,089
+My Aditi and Madhavi
+
+635
+00:35:39,680 --> 00:35:41,011
+died on the spot.
+
+636
+00:35:43,400 --> 00:35:45,368
+My daughter was only 9 years old Leela.
+
+637
+00:35:46,840 --> 00:35:48,171
+She was so small..
+
+638
+00:35:50,600 --> 00:35:53,763
+For years thereafter, I cursed myself.
+
+639
+00:35:55,240 --> 00:35:57,846
+Why was I not in the car with them"
+
+640
+00:36:07,320 --> 00:36:08,401
+Ma..
+
+641
+00:36:11,760 --> 00:36:12,921
+Ma?
+
+642
+00:36:25,160 --> 00:36:26,366
+Ma..
+
+643
+00:36:30,200 --> 00:36:31,201
+Ma...?
+
+644
+00:36:45,200 --> 00:36:46,281
+I'm sorry.
+
+645
+00:36:46,640 --> 00:36:47,926
+Listen Amaya..
+
+646
+00:36:50,840 --> 00:36:52,444
+'I'm listening Ma'
+
+647
+00:36:55,760 --> 00:36:57,250
+'I'm listening Ma'
+
+648
+00:37:02,280 --> 00:37:04,044
+'I'm listening Ma'
+
+649
+00:37:07,600 --> 00:37:08,965
+I want to go to Bangalore.
+
+650
+00:37:09,160 --> 00:37:10,650
+I want to meet Aunty.
+
+651
+00:37:10,840 --> 00:37:13,491
+Amaya..can we talk?
+
+652
+00:37:14,960 --> 00:37:16,325
+I want to leave tomorrow.
+
+653
+00:37:18,680 --> 00:37:20,011
+Okay.
+
+654
+00:37:20,240 --> 00:37:21,685
+I'll call her.
+
+655
+00:37:26,720 --> 00:37:27,801
+Sujata?
+
+656
+00:37:27,880 --> 00:37:30,326
+Leela? What a lovely surprise!
+
+657
+00:37:30,640 --> 00:37:32,961
+Mummy was asking
+about you all yesterday.
+
+658
+00:37:33,600 --> 00:37:34,681
+How are you'll doing?
+
+659
+00:37:35,320 --> 00:37:37,129
+Amaya wants to come to Bangalore.
+
+660
+00:37:37,200 --> 00:37:38,247
+Oh great!
+
+661
+00:37:38,320 --> 00:37:39,685
+Is she coming for an interview?
+
+662
+00:37:41,760 --> 00:37:45,287
+No. She wants to meet with you.
+
+663
+00:37:45,920 --> 00:37:46,921
+Really.
+
+664
+00:37:47,280 --> 00:37:48,441
+Everything okay?
+
+665
+00:37:48,840 --> 00:37:49,966
+I don't know..
+
+666
+00:37:50,920 --> 00:37:53,048
+I'll book her on an evening flight.
+
+667
+00:37:53,800 --> 00:37:54,926
+Well please tell Amaya,
+
+668
+00:37:55,000 --> 00:37:56,809
+I'm really looking
+forward to seeing her.
+
+669
+00:37:56,880 --> 00:37:57,847
+I will.
+
+670
+00:37:57,920 --> 00:37:58,887
+Take care, bye.
+
+671
+00:38:00,280 --> 00:38:01,884
+Aunty will be at the
+airport to pick you up.
+
+672
+00:38:01,960 --> 00:38:02,882
+I don't want to go.
+
+673
+00:38:03,320 --> 00:38:04,207
+But, didn't you just say..
+
+674
+00:38:04,280 --> 00:38:05,645
+I can change my mind Ma!
+
+675
+00:38:20,200 --> 00:38:22,282
+Your father was my best friend.
+
+676
+00:38:23,640 --> 00:38:25,563
+The day he died,
+
+677
+00:38:26,240 --> 00:38:29,608
+it almost felt like
+I'd died with him too.
+
+678
+00:38:31,080 --> 00:38:32,809
+But then I saw you
+
+679
+00:38:32,880 --> 00:38:35,531
+and realized that life stops for no one.
+
+680
+00:38:36,880 --> 00:38:39,201
+You became my strength Amaya.
+
+681
+00:38:41,320 --> 00:38:43,129
+I really missed your father.
+
+682
+00:38:44,960 --> 00:38:47,531
+These twelve years have been tough,
+
+683
+00:38:48,200 --> 00:38:51,124
+and I had no one to
+tell me right from wrong.
+
+684
+00:38:52,840 --> 00:38:54,330
+Bringing you up alone
+
+685
+00:38:54,960 --> 00:38:57,042
+was a challenge by itself,
+
+686
+00:38:58,920 --> 00:39:02,003
+but I've enjoyed every moment of it.
+
+687
+00:39:03,320 --> 00:39:06,244
+I'm proud of who you've grown up to be.
+
+688
+00:39:06,760 --> 00:39:08,205
+Dad would have been too"
+
+689
+00:39:09,160 --> 00:39:10,321
+Intelligent,
+
+690
+00:39:10,560 --> 00:39:11,766
+confident,
+
+691
+00:39:11,960 --> 00:39:13,724
+ambitious young woman.
+
+692
+00:39:14,960 --> 00:39:18,521
+An exciting world awaits you,
+
+693
+00:39:19,200 --> 00:39:21,043
+full of opportunities.
+
+694
+00:39:23,960 --> 00:39:26,122
+So a few years ago, I thought to myself
+
+695
+00:39:26,600 --> 00:39:30,446
+why not start living my life again?
+
+696
+00:39:31,720 --> 00:39:33,802
+I started Book a Coffee.
+
+697
+00:39:34,800 --> 00:39:36,484
+I met with some old friends,
+
+698
+00:39:36,840 --> 00:39:39,081
+and I made some new ones too.
+
+699
+00:39:40,000 --> 00:39:41,889
+Jayant and I just clicked.
+
+700
+00:39:45,880 --> 00:39:47,450
+We didn't know,
+
+701
+00:39:47,680 --> 00:39:49,887
+if we both wanted
+the same things from life.
+
+702
+00:39:50,520 --> 00:39:52,170
+We'd often be afraid.
+
+703
+00:39:52,640 --> 00:39:53,641
+In fact,
+
+704
+00:39:53,720 --> 00:39:55,802
+the biggest fear was
+
+705
+00:39:56,080 --> 00:39:58,367
+whether you would
+be fond of Jayant or not.
+
+706
+00:39:59,520 --> 00:40:01,204
+You put that fear to rest yourself.
+
+707
+00:40:02,600 --> 00:40:04,011
+And Amaya,
+
+708
+00:40:04,240 --> 00:40:06,368
+I'm sure you'll understand this,
+
+709
+00:40:07,040 --> 00:40:09,964
+Jayant made me feel like a woman again.
+
+710
+00:40:11,760 --> 00:40:14,331
+We want to spend the
+rest of our lives together.
+
+711
+00:40:29,280 --> 00:40:30,406
+Amaya?
+
+712
+00:40:42,920 --> 00:40:44,001
+Good morning!
+
+713
+00:40:49,480 --> 00:40:50,606
+What do you think?
+
+714
+00:40:55,360 --> 00:40:56,725
+I don't like the title..
+
+715
+00:41:06,680 --> 00:41:08,682
+But why? I think it's very appropriate.
+
+716
+00:41:15,520 --> 00:41:17,090
+Because memories are very personal,
+
+717
+00:41:25,600 --> 00:41:28,763
+And we have no right to
+dig up other peoples' memories.
+
+718
+00:41:44,520 --> 00:41:47,603
+Maybe we should
+never have started this book.
+
+719
+00:41:52,080 --> 00:41:53,889
+It's not too late yet,
+
+720
+00:41:56,240 --> 00:41:57,446
+but I believe
+
+721
+00:41:57,880 --> 00:42:00,281
+if you start something,
+
+722
+00:42:00,800 --> 00:42:02,723
+it's only right to
+see it through to its end.
+
+723
+00:42:16,800 --> 00:42:19,121
+Uncle, listen to this joke..
+
+724
+00:42:19,440 --> 00:42:22,523
+Santa whispers
+something into Banta's ear.
+
+725
+00:42:23,200 --> 00:42:24,531
+Banta dies instantly.
+
+726
+00:42:24,600 --> 00:42:27,046
+What is it that Santa
+whispered into Banta's ear?
+
+727
+00:42:27,640 --> 00:42:28,971
+Say say..
+
+728
+00:42:29,560 --> 00:42:30,800
+BANG!
+
+729
+00:42:35,080 --> 00:42:37,367
+It wasn't so bad was it?
+
+730
+00:42:39,280 --> 00:42:40,281
+Leela aunty, give this to me..
+
+731
+00:42:40,480 --> 00:42:41,288
+You go sit down.
+
+732
+00:42:41,360 --> 00:42:43,931
+No no..I'll earn some
+tips in the meanwhile too!
+
+733
+00:42:54,680 --> 00:42:56,125
+When are you leaving for Ranikhet?
+
+734
+00:42:56,800 --> 00:42:57,722
+In a couple of days.
+
+735
+00:42:59,080 --> 00:43:00,206
+Bye Mrs. K
+
+736
+00:43:00,520 --> 00:43:01,567
+Bye Bye..
+
+737
+00:43:06,440 --> 00:43:07,680
+Tell me something,
+
+738
+00:43:08,320 --> 00:43:10,004
+what do you feel when you go back now?
+
+739
+00:43:13,240 --> 00:43:15,322
+It doesn't hurt so much now.
+
+740
+00:43:17,120 --> 00:43:19,771
+I stop for tea at the same restaurant,
+
+741
+00:43:20,200 --> 00:43:22,362
+the same owner still chats with me..
+
+742
+00:43:23,320 --> 00:43:25,368
+Cars come and go as usual..
+
+743
+00:43:26,480 --> 00:43:28,244
+It doesn't hurt so much now.
+
+744
+00:43:36,160 --> 00:43:37,207
+Yesterday.
+
+745
+00:43:38,560 --> 00:43:40,961
+When I spoke with Amaya yesterday,
+
+746
+00:43:41,280 --> 00:43:43,089
+she didn't react at all.
+
+747
+00:43:45,080 --> 00:43:46,570
+She didn't say a word.
+
+748
+00:43:46,640 --> 00:43:48,005
+She will.
+
+749
+00:43:48,880 --> 00:43:50,450
+You just need to give her some time.
+
+750
+00:43:58,000 --> 00:43:58,887
+WOW!
+
+751
+00:43:59,320 --> 00:44:01,049
+But what is this Busy Bazaar?
+
+752
+00:44:04,160 --> 00:44:05,605
+A little girl
+
+753
+00:44:06,280 --> 00:44:08,169
+who gets lost in a market
+
+754
+00:44:08,720 --> 00:44:10,563
+and goes looking for her father"
+
+755
+00:44:12,920 --> 00:44:14,524
+Amaya's first story,
+
+756
+00:44:15,400 --> 00:44:18,006
+and now, possibly her first book.
+
+757
+00:44:42,120 --> 00:44:43,246
+Oh Abhay!
+
+758
+00:44:43,520 --> 00:44:44,681
+Hi..
+
+759
+00:44:45,880 --> 00:44:47,405
+What a lovely surprise.
+
+760
+00:44:47,800 --> 00:44:48,642
+This is for you.
+
+761
+00:44:48,720 --> 00:44:50,563
+Oh, thank you!
+
+762
+00:44:50,640 --> 00:44:51,687
+Come..
+
+763
+00:44:52,080 --> 00:44:53,127
+Come in.
+
+764
+00:44:53,200 --> 00:44:54,361
+Thanks.
+
+765
+00:44:56,240 --> 00:44:57,002
+Hello!
+
+766
+00:44:57,080 --> 00:44:58,081
+Hi!
+
+767
+00:44:58,160 --> 00:44:58,809
+Not angry any more I hope!
+
+768
+00:44:58,880 --> 00:45:00,370
+I'm so sorry about that day!
+
+769
+00:45:00,440 --> 00:45:01,202
+Don't bother"
+
+770
+00:45:01,280 --> 00:45:02,361
+I'm an idiot.
+
+771
+00:45:02,440 --> 00:45:04,169
+It's okay..
+
+772
+00:45:05,680 --> 00:45:06,841
+So tell me,
+
+773
+00:45:06,920 --> 00:45:08,490
+how is Devika? Where is she?
+
+774
+00:45:08,560 --> 00:45:11,689
+She's just gone to
+look at a few places to rent..
+
+775
+00:45:12,280 --> 00:45:13,884
+For the clinic, I told you about.
+
+776
+00:45:13,960 --> 00:45:16,167
+Right, you mentioned earlier.
+
+777
+00:45:19,320 --> 00:45:20,810
+It's a family day in?
+
+778
+00:45:20,880 --> 00:45:22,166
+Yeah..
+
+779
+00:45:27,760 --> 00:45:29,444
+Is Jayant not at home?
+
+780
+00:45:31,680 --> 00:45:33,125
+Jayant must be at home only..
+
+781
+00:45:34,400 --> 00:45:35,640
+Of course.
+
+782
+00:45:42,080 --> 00:45:45,209
+The weather's become really erratic"
+
+783
+00:45:45,680 --> 00:45:46,966
+Yeah.. but,
+
+784
+00:45:47,880 --> 00:45:49,564
+It's nice..l like it!
+
+785
+00:45:51,560 --> 00:45:55,201
+It rains every year at the same time?
+
+786
+00:45:56,720 --> 00:45:57,926
+Actually"
+
+787
+00:45:58,320 --> 00:45:59,685
+It rains whenever!
+
+788
+00:46:01,280 --> 00:46:02,645
+One never knows..
+
+789
+00:46:08,360 --> 00:46:10,647
+He asked me actually,
+
+790
+00:46:11,160 --> 00:46:13,925
+Jayant only told me to
+come over in the evening.
+
+791
+00:46:36,400 --> 00:46:39,051
+So you left the
+wine at Leela's home too?
+
+792
+00:46:39,360 --> 00:46:40,600
+You're something else..
+
+793
+00:46:41,280 --> 00:46:42,281
+Thanks
+
+794
+00:46:42,480 --> 00:46:43,527
+Why didn't you tell me?
+
+795
+00:46:43,600 --> 00:46:45,568
+Okay, I'm forgetful as a person,
+
+796
+00:46:45,640 --> 00:46:47,290
+I forgot to SMS you the address..
+
+797
+00:46:47,680 --> 00:46:49,682
+But my dear sir, you went ahead
+
+798
+00:46:49,760 --> 00:46:51,524
+and decided everything in your own mind!
+
+799
+00:47:00,320 --> 00:47:01,367
+All black and white?
+
+800
+00:47:01,680 --> 00:47:03,205
+They are life's two
+basic shades after all,
+
+801
+00:47:03,280 --> 00:47:04,327
+black and white.
+
+802
+00:47:16,800 --> 00:47:17,847
+Extraordinary!
+
+803
+00:47:18,680 --> 00:47:19,886
+Actually quite ordinary.
+
+804
+00:47:21,040 --> 00:47:22,883
+A common man's everyday life..
+
+805
+00:47:23,400 --> 00:47:25,482
+Which we always tend to overlook.
+
+806
+00:47:26,080 --> 00:47:28,367
+There lies the
+difference between you and us.
+
+807
+00:47:31,520 --> 00:47:32,885
+Oh boy!
+
+808
+00:47:33,000 --> 00:47:34,684
+Angry young woman.
+
+809
+00:47:35,360 --> 00:47:38,443
+Maybe just a
+misunderstood young woman...?
+
+810
+00:47:39,400 --> 00:47:42,131
+And after all, anger is
+also an important emotion,
+
+811
+00:47:42,680 --> 00:47:45,160
+it must also be present in one's life.
+
+812
+00:47:46,200 --> 00:47:47,087
+Shall we sit?
+
+813
+00:47:47,160 --> 00:47:48,286
+Sure.
+
+814
+00:48:02,320 --> 00:48:03,367
+Amaya?
+
+815
+00:48:05,960 --> 00:48:07,086
+Aren't you ready yet?
+
+816
+00:48:09,000 --> 00:48:10,081
+For what?
+
+817
+00:48:10,640 --> 00:48:12,051
+The sample of the new chairs is ready,
+
+818
+00:48:12,120 --> 00:48:13,201
+we have to approve it.
+
+819
+00:48:13,560 --> 00:48:14,561
+So?
+
+820
+00:48:14,840 --> 00:48:16,330
+Why do I need to come?
+
+821
+00:48:16,720 --> 00:48:18,370
+You go and see them yourself..
+
+822
+00:48:19,120 --> 00:48:20,565
+Go and see them myself?
+
+823
+00:48:21,360 --> 00:48:23,010
+I'm not deciding on this alone,
+
+824
+00:48:23,320 --> 00:48:24,731
+I need your opinion.
+
+825
+00:48:26,360 --> 00:48:27,441
+MY Opinion?
+
+826
+00:48:27,800 --> 00:48:28,881
+Really?
+
+827
+00:48:30,720 --> 00:48:32,131
+Lucky me!
+
+828
+00:49:46,120 --> 00:49:46,928
+Hi sorry..
+
+829
+00:49:47,000 --> 00:49:47,967
+What is it?
+
+830
+00:49:49,360 --> 00:49:50,964
+Just give me two minutes"
+
+831
+00:49:55,080 --> 00:49:56,127
+- Need any help? - No thanks.
+
+832
+00:49:56,200 --> 00:49:57,326
+Okay"
+
+833
+00:50:10,920 --> 00:50:12,331
+Thank you.
+
+834
+00:50:26,320 --> 00:50:27,162
+I'm so sorry!
+
+835
+00:50:27,240 --> 00:50:28,162
+That's alright.
+
+836
+00:50:28,760 --> 00:50:30,489
+I think I'll help anyway..
+
+837
+00:50:31,640 --> 00:50:33,051
+For the cups at least.
+
+838
+00:50:35,280 --> 00:50:36,725
+Chaos huh?
+
+839
+00:50:37,880 --> 00:50:39,211
+Where is Leela?
+
+840
+00:50:41,040 --> 00:50:42,201
+She's not feeling well.
+
+841
+00:50:42,600 --> 00:50:43,806
+What's happened to her?
+
+842
+00:50:45,520 --> 00:50:46,885
+I don't know.
+
+843
+00:50:52,040 --> 00:50:53,280
+<i>Amaya,.</i>
+
+844
+00:50:54,200 --> 00:50:55,725
+please give mummy this medicine
+
+845
+00:50:55,800 --> 00:50:57,723
+before she goes to bed.
+
+846
+00:51:01,400 --> 00:51:02,242
+What's happened to her?
+
+847
+00:51:02,440 --> 00:51:04,169
+Nothing serious,
+
+848
+00:51:04,440 --> 00:51:06,522
+just a little bit stressed I think.
+
+849
+00:51:08,240 --> 00:51:09,480
+- Okay bye! - Thank you.
+
+850
+00:51:11,200 --> 00:51:12,406
+Here, I'll pick up the medicines.
+
+851
+00:51:13,080 --> 00:51:14,411
+Look Raghav, I don't need..
+
+852
+00:51:14,480 --> 00:51:16,050
+You don't need my help?
+
+853
+00:51:16,280 --> 00:51:17,611
+I know.
+
+854
+00:51:18,360 --> 00:51:21,011
+Amaya, I'm not
+doing this to impress you,
+
+855
+00:51:21,200 --> 00:51:23,646
+I actually happen to
+be fond of Leela aunty.
+
+856
+00:51:24,120 --> 00:51:25,246
+This is for her.
+
+857
+00:51:25,320 --> 00:51:27,209
+So..if you don't mind,
+
+858
+00:51:27,440 --> 00:51:28,487
+Clean up.
+
+859
+00:51:44,560 --> 00:51:45,686
+Thanks.
+
+860
+00:51:48,000 --> 00:51:49,684
+I read your draft.
+
+861
+00:51:51,120 --> 00:51:52,360
+It's touching.
+
+862
+00:51:53,840 --> 00:51:55,046
+Nice.
+
+863
+00:51:57,280 --> 00:51:58,202
+Amaya?
+
+864
+00:52:00,280 --> 00:52:01,611
+Talk to me.
+
+865
+00:52:02,920 --> 00:52:04,126
+Good night Ma.
+
+866
+00:52:10,560 --> 00:52:12,324
+Please talk to me..
+
+867
+00:52:17,240 --> 00:52:18,082
+So, what'll you have?
+
+868
+00:52:18,160 --> 00:52:19,127
+I'll have one of these..
+
+869
+00:52:19,960 --> 00:52:21,803
+Okay..that one? And what'll you have?
+
+870
+00:52:21,880 --> 00:52:23,962
+I'll have a regular Mexican..
+
+871
+00:52:24,040 --> 00:52:25,849
+Okay. That's what you have every time!
+
+872
+00:52:28,360 --> 00:52:29,600
+Why did you get UP?
+
+873
+00:52:29,680 --> 00:52:31,284
+Aren't you supposed to go rest?
+
+874
+00:52:34,600 --> 00:52:35,681
+It's okay.
+
+875
+00:52:36,040 --> 00:52:38,202
+You have a publisher
+meeting today don't you?
+
+876
+00:52:39,280 --> 00:52:40,486
+Go and meet him.
+
+877
+00:52:40,680 --> 00:52:43,729
+And please don't slap him or anything!
+
+878
+00:52:47,400 --> 00:52:48,686
+Okay"
+
+879
+00:52:51,360 --> 00:52:52,566
+Amaya..
+
+880
+00:52:52,960 --> 00:52:54,962
+Devika's invited us
+over for dinner tonight.
+
+881
+00:52:55,720 --> 00:52:57,085
+Who is “us“?
+
+882
+00:52:59,160 --> 00:53:00,446
+You and me Amaya..
+
+883
+00:53:03,640 --> 00:53:04,846
+<i>I'll try.</i>
+
+884
+00:53:16,960 --> 00:53:18,610
+And I said to him..
+
+885
+00:53:18,760 --> 00:53:19,886
+Ouch!
+
+886
+00:53:20,400 --> 00:53:22,528
+Raghav, why do you
+always insist on helping me?
+
+887
+00:53:22,640 --> 00:53:23,721
+I'm sorry..
+
+888
+00:53:32,920 --> 00:53:36,049
+"A little girl does a stranger meet"
+
+889
+00:53:36,240 --> 00:53:38,288
+"Light of step, she skips a beat"
+
+890
+00:53:38,360 --> 00:53:39,486
+"Within her heart is a to and fro"
+
+891
+00:53:39,560 --> 00:53:41,164
+"A little bit of come and go"
+
+892
+00:53:41,240 --> 00:53:43,049
+"Wide awake on a sleepy night"
+
+893
+00:53:43,280 --> 00:53:46,284
+"How strange was she you tell me!"
+
+894
+00:53:47,880 --> 00:53:50,690
+"A little girl does a stranger meet"
+
+895
+00:53:50,760 --> 00:53:52,922
+"Light of step, she skips a beat"
+
+896
+00:53:53,000 --> 00:53:54,126
+"Within her heart is a to and fro"
+
+897
+00:53:54,200 --> 00:53:55,770
+"A little bit of come and go"
+
+898
+00:53:55,840 --> 00:53:57,763
+"Wide awake on a sleepy night"
+
+899
+00:53:57,840 --> 00:54:00,889
+"How strange was she you tell me!"
+
+900
+00:54:11,960 --> 00:54:15,248
+"Prancing, dancing and romancing"
+
+901
+00:54:15,320 --> 00:54:18,961
+"To herself she would happiness bring"
+
+902
+00:54:21,640 --> 00:54:24,962
+"Prancing, dancing and romancing"
+
+903
+00:54:25,040 --> 00:54:28,203
+"To herself she would happiness bring"
+
+904
+00:54:28,280 --> 00:54:29,850
+"And with the stranger whom she met"
+
+905
+00:54:29,920 --> 00:54:31,649
+"Into a trance she would get"
+
+906
+00:54:31,720 --> 00:54:34,246
+"Wide awake on a sleepy night"
+
+907
+00:54:34,560 --> 00:54:36,324
+"And with the stranger whom she met"
+
+908
+00:54:36,400 --> 00:54:37,322
+"Into a trance she would get"
+
+909
+00:54:37,400 --> 00:54:38,322
+"Wide awake on a sleepy night"
+
+910
+00:54:38,400 --> 00:54:41,609
+"How strange was she you tell me!"
+
+911
+00:54:42,720 --> 00:54:45,929
+"A little girl does a stranger meet"
+
+912
+00:54:46,000 --> 00:54:47,889
+"Light of step, she skips a beat"
+
+913
+00:54:47,960 --> 00:54:49,246
+"Within her heart is a to and fro"
+
+914
+00:54:49,320 --> 00:54:50,924
+"A little bit of come and go"
+
+915
+00:54:51,000 --> 00:54:52,923
+"Wide awake on a sleepy night"
+
+916
+00:54:53,000 --> 00:54:56,163
+"How strange was she you tell me!"
+
+917
+00:55:10,240 --> 00:55:11,765
+"In the drizzle that now gently fell"
+
+918
+00:55:11,840 --> 00:55:13,444
+"Drops of rain clung to her"
+
+919
+00:55:13,520 --> 00:55:17,161
+"Crazy as only she could be"
+
+920
+00:55:19,920 --> 00:55:21,490
+"In the drizzle that now gently fell"
+
+921
+00:55:21,560 --> 00:55:23,244
+"Drops of rain clung to her"
+
+922
+00:55:23,320 --> 00:55:26,449
+"Crazy as only she could be"
+
+923
+00:55:26,520 --> 00:55:30,047
+"Sensuous yet sensuously demure"
+
+924
+00:55:30,120 --> 00:55:32,771
+"In the dark of night with the stranger"
+
+925
+00:55:32,920 --> 00:55:36,606
+"In full flow the lissome lass"
+
+926
+00:55:36,680 --> 00:55:39,923
+"How strange was she you tell me!"
+
+927
+00:55:41,120 --> 00:55:44,249
+"A little girl does a stranger meet"
+
+928
+00:55:44,320 --> 00:55:46,288
+"Light of step, she skips a beat"
+
+929
+00:55:46,360 --> 00:55:47,521
+"Within her heart is a to and fro"
+
+930
+00:55:47,600 --> 00:55:49,170
+"A little bit of come and go"
+
+931
+00:55:49,240 --> 00:55:51,607
+"Wide awake on a sleepy night"
+
+932
+00:55:53,400 --> 00:55:57,405
+"How strange was she you tell me!"
+
+933
+00:56:02,880 --> 00:56:03,881
+Hi!
+
+934
+00:56:04,040 --> 00:56:05,087
+Oh hi..
+
+935
+00:56:06,880 --> 00:56:07,722
+When did you get back?
+
+936
+00:56:07,800 --> 00:56:09,768
+Just now..how are you?
+
+937
+00:56:11,720 --> 00:56:12,960
+Upset.
+
+938
+00:56:15,680 --> 00:56:17,250
+I'll just be back, sit..
+
+939
+00:56:23,040 --> 00:56:24,530
+Ms Krishnamoorthy..
+
+940
+00:56:28,520 --> 00:56:30,090
+Congratulations,
+
+941
+00:56:30,600 --> 00:56:32,409
+on your first publication.
+
+942
+00:56:33,200 --> 00:56:36,283
+I can hardly believe,
+
+943
+00:56:36,360 --> 00:56:38,886
+Memories of the Busy Bazaar,
+
+944
+00:56:39,040 --> 00:56:41,407
+is the work of a first time author.
+
+945
+00:56:42,200 --> 00:56:43,326
+Brillirant!
+
+946
+00:56:43,680 --> 00:56:44,886
+Actually,
+
+947
+00:56:45,360 --> 00:56:47,169
+I was so looking forward
+
+948
+00:56:47,760 --> 00:56:50,525
+to meeting Mr. Sinha as well.
+
+949
+00:56:50,800 --> 00:56:53,451
+His photography is outstanding.
+
+950
+00:56:53,760 --> 00:56:56,411
+I think, he's not in town sir.
+
+951
+00:56:58,720 --> 00:57:00,324
+Sir, there's just one more thing"
+
+952
+00:57:01,080 --> 00:57:03,765
+I wanted to change
+the title of the book.
+
+953
+00:57:04,680 --> 00:57:05,806
+Absolutely not!
+
+954
+00:57:06,000 --> 00:57:08,207
+The title will sell first,
+
+955
+00:57:08,360 --> 00:57:11,284
+people will love the book after that.
+
+956
+00:57:11,880 --> 00:57:12,881
+Okay.
+
+957
+00:57:13,240 --> 00:57:14,207
+Thank you Mr. Khanna.
+
+958
+00:57:14,280 --> 00:57:15,281
+Thank you very much.
+
+959
+00:57:15,360 --> 00:57:16,850
+Thank you so much!
+
+960
+00:57:57,560 --> 00:57:59,210
+I have been thinking Leela..
+
+961
+00:58:00,800 --> 00:58:03,644
+Why do I keep returning to Ranikhet?
+
+962
+00:58:04,920 --> 00:58:06,490
+Because somewhere in my subconscious,
+
+963
+00:58:06,560 --> 00:58:09,370
+I've hoarded my most precious memories.
+
+964
+00:58:10,440 --> 00:58:11,851
+Amaya is doing the same thing.
+
+965
+00:58:14,080 --> 00:58:17,050
+I'm afraid to even speak with her now,
+
+966
+00:58:17,400 --> 00:58:18,606
+I never know what
+she will say and when..
+
+967
+00:58:18,680 --> 00:58:19,920
+Naturally, till now
+
+968
+00:58:20,160 --> 00:58:23,482
+she has never had
+to take your permission,
+
+969
+00:58:23,960 --> 00:58:25,689
+to enter your room.
+
+970
+00:58:26,360 --> 00:58:28,203
+She could do so at any
+time, without so much as knocking..
+
+971
+00:58:28,280 --> 00:58:30,203
+Now, she will need to knock,
+
+972
+00:58:30,480 --> 00:58:31,925
+ask if she can enter..
+
+973
+00:58:32,840 --> 00:58:33,841
+It's a small thing,
+
+974
+00:58:33,920 --> 00:58:35,684
+but it has a different meaning for her.
+
+975
+00:58:42,400 --> 00:58:44,687
+So, how's the book coming along?
+
+976
+00:58:44,800 --> 00:58:45,722
+Good!
+
+977
+00:58:46,240 --> 00:58:47,241
+- Here.. - Thanks.
+
+978
+00:58:47,320 --> 00:58:48,651
+Thank you..
+
+979
+00:58:49,720 --> 00:58:51,768
+Actually it's about to be published.
+
+980
+00:58:51,840 --> 00:58:52,841
+Hey!
+
+981
+00:58:52,920 --> 00:58:54,445
+Congratulations!
+
+982
+00:58:55,960 --> 00:58:58,167
+I wanted Ma to be
+the first person to know..
+
+983
+00:58:58,960 --> 00:59:00,883
+But, you'll are..
+
+984
+00:59:01,240 --> 00:59:02,730
+So cheers I guess!
+
+985
+00:59:03,040 --> 00:59:04,451
+Cheers!
+
+986
+00:59:05,920 --> 00:59:07,524
+She is coming right?
+
+987
+00:59:07,760 --> 00:59:08,886
+Yeah of course..
+
+988
+00:59:08,960 --> 00:59:10,769
+Actually, let me check.
+
+989
+00:59:28,520 --> 00:59:29,407
+She must be on her way.
+
+990
+00:59:29,480 --> 00:59:30,766
+Yeah.
+
+991
+00:59:33,600 --> 00:59:34,806
+So, nice house!
+
+992
+00:59:35,320 --> 00:59:36,606
+Thank you!
+
+993
+00:59:38,040 --> 00:59:40,964
+We all live within our
+individual comfort zones,
+
+994
+00:59:41,840 --> 00:59:43,888
+when they're disturbed, it bothers us.
+
+995
+00:59:44,080 --> 00:59:46,526
+But she's very comfortable with you.
+
+996
+00:59:46,600 --> 00:59:47,761
+Yes she is,
+
+997
+00:59:47,840 --> 00:59:49,490
+but only as a friend.
+
+998
+00:59:50,120 --> 00:59:52,088
+She's missing her father Leela,
+
+999
+00:59:52,360 --> 00:59:53,691
+and now her biggest fear,
+
+1000
+00:59:53,760 --> 00:59:55,603
+is that I may be
+replacing him in her life.
+
+1001
+00:59:56,360 --> 00:59:58,727
+So..why don't you speak with her,
+
+1002
+00:59:59,080 --> 01:00:00,730
+if only as a friend?
+
+1003
+01:00:01,120 --> 01:00:03,885
+I don't believe
+anyone can explain this to her,
+
+1004
+01:00:04,280 --> 01:00:05,850
+she needs to work it out for herself.
+
+1005
+01:00:23,440 --> 01:00:24,726
+She always picks up.
+
+1006
+01:00:40,440 --> 01:00:42,010
+I can't get through
+on the home line either.
+
+1007
+01:00:43,800 --> 01:00:45,723
+I hope she's feeling well..
+
+1008
+01:00:45,920 --> 01:00:46,887
+Lets not waste anymore time,
+
+1009
+01:00:46,960 --> 01:00:48,041
+come..lets go.
+
+1010
+01:01:02,440 --> 01:01:03,487
+Hey"
+
+1011
+01:01:03,920 --> 01:01:05,206
+This is my colour,
+
+1012
+01:01:05,920 --> 01:01:07,524
+You're playing this.
+
+1013
+01:01:07,880 --> 01:01:09,120
+Red is my colour.
+
+1014
+01:01:16,200 --> 01:01:17,281
+Amaya?
+
+1015
+01:01:19,480 --> 01:01:21,926
+Abhay? I'm so sorry..
+
+1016
+01:01:22,000 --> 01:01:23,889
+I just forgot.
+
+1017
+01:01:23,960 --> 01:01:25,007
+Unbelievable!
+
+1018
+01:01:25,640 --> 01:01:27,642
+No no..it's okay.
+
+1019
+01:01:27,840 --> 01:01:29,808
+We'll do the dinner some other time.
+
+1020
+01:01:30,120 --> 01:01:31,326
+Weren't you the one who said,
+
+1021
+01:01:31,600 --> 01:01:32,886
+we were having dinner at their place?
+
+1022
+01:01:33,200 --> 01:01:35,168
+- Actually Amaya.. -
+I'm not speaking with you.
+
+1023
+01:01:35,560 --> 01:01:36,846
+I'm speaking to my
+mother if you don't mind.
+
+1024
+01:01:36,920 --> 01:01:39,400
+- Just stay out of
+this. - Amaya how dare you?
+
+1025
+01:01:41,720 --> 01:01:43,370
+It's okay Leela, I should be leaving.
+
+1026
+01:01:43,440 --> 01:01:45,488
+No. You stay right here.
+
+1027
+01:01:47,160 --> 01:01:49,401
+I think Amaya just over-reacted.
+
+1028
+01:01:50,000 --> 01:01:51,126
+Devika,
+
+1029
+01:01:51,600 --> 01:01:53,443
+look at it from Amaya's point of view..
+
+1030
+01:01:53,840 --> 01:01:55,922
+How can she accept this relationship?
+
+1031
+01:01:56,240 --> 01:01:57,162
+Why?
+
+1032
+01:01:57,240 --> 01:01:58,446
+Amaya is a modern girl,
+
+1033
+01:01:58,520 --> 01:01:59,931
+she knows her mind.
+
+1034
+01:02:00,640 --> 01:02:04,281
+Being modern does not mean
+that she's totally emotionless.
+
+1035
+01:02:05,920 --> 01:02:07,365
+Don't confuse both issues.
+
+1036
+01:02:07,440 --> 01:02:08,601
+- Listen Amaya. - No!
+
+1037
+01:02:08,680 --> 01:02:09,761
+You listen.
+
+1038
+01:02:10,000 --> 01:02:11,047
+I've heard whatever you have had to say,
+
+1039
+01:02:11,120 --> 01:02:12,246
+Now you listen.
+
+1040
+01:02:14,040 --> 01:02:15,405
+You've betrayed my father,
+
+1041
+01:02:15,840 --> 01:02:17,046
+you've embarrassed me,
+
+1042
+01:02:17,880 --> 01:02:19,041
+and you've changed..
+
+1043
+01:02:20,760 --> 01:02:22,444
+Suddenly now that
+he's entered your life,
+
+1044
+01:02:22,520 --> 01:02:24,329
+your whole life has changed?
+
+1045
+01:02:25,080 --> 01:02:26,605
+I'm no longer important?
+
+1046
+01:02:32,600 --> 01:02:34,329
+And what were you thinking exactly?
+
+1047
+01:02:34,840 --> 01:02:36,251
+What am I supposed to say to my friends?
+
+1048
+01:02:36,640 --> 01:02:38,005
+Here's a wedding invitation,
+
+1049
+01:02:38,080 --> 01:02:39,764
+not to mine, but to my mother's wedding!
+
+1050
+01:02:44,680 --> 01:02:46,603
+And how will you break this to granny
+
+1051
+01:02:46,920 --> 01:02:47,921
+<i>and aunt?</i>
+
+1052
+01:02:48,000 --> 01:02:49,047
+What will you say to them?
+
+1053
+01:02:49,400 --> 01:02:50,128
+How will they feel?
+
+1054
+01:02:50,200 --> 01:02:51,247
+Have you even considered that at all?
+
+1055
+01:02:54,880 --> 01:02:56,006
+I hate you Ma.
+
+1056
+01:02:56,440 --> 01:02:57,646
+I hate who you've become.
+
+1057
+01:02:59,280 --> 01:03:01,282
+- Amaya I.. - Let her speak Leela.
+
+1058
+01:03:09,000 --> 01:03:10,684
+You obviously don't love dad.
+
+1059
+01:03:10,880 --> 01:03:12,609
+I loved your father,
+
+1060
+01:03:12,680 --> 01:03:13,681
+my husband.
+
+1061
+01:03:14,280 --> 01:03:15,441
+But I don't want to
+spend the rest of my life,
+
+1062
+01:03:15,520 --> 01:03:17,284
+looking over my
+shoulder at what could have been.
+
+1063
+01:03:17,360 --> 01:03:18,725
+He can never be my father.
+
+1064
+01:03:18,800 --> 01:03:19,847
+He will never take dad's place.
+
+1065
+01:03:19,920 --> 01:03:21,046
+NEVER.
+
+1066
+01:03:22,400 --> 01:03:23,686
+But you of course..
+
+1067
+01:03:25,640 --> 01:03:26,641
+What have I done?
+
+1068
+01:03:29,840 --> 01:03:32,127
+That was dad's and your bedroom Ma..
+
+1069
+01:03:32,200 --> 01:03:33,486
+You could have at least respected that.
+
+1070
+01:03:33,560 --> 01:03:35,369
+Amaya stop.
+
+1071
+01:03:35,640 --> 01:03:36,721
+That's it.
+
+1072
+01:03:37,520 --> 01:03:38,646
+Enough now.
+
+1073
+01:03:44,160 --> 01:03:45,924
+He makes me feel like a woman again.
+
+1074
+01:03:46,520 --> 01:03:47,885
+Isn't that what you said?
+
+1075
+01:03:49,000 --> 01:03:50,161
+What is it Ma?
+
+1076
+01:03:50,400 --> 01:03:51,640
+Is it just the sex?
+
+1077
+01:04:02,880 --> 01:04:05,326
+Had it been Aditi
+who had just said this,
+
+1078
+01:04:06,200 --> 01:04:07,486
+I would have slapped her.
+
+1079
+01:04:10,760 --> 01:04:11,966
+I'll see you Leela.
+
+1080
+01:04:13,720 --> 01:04:16,007
+"O the dilemma,"
+
+1081
+01:04:16,120 --> 01:04:19,124
+"To do or not to do and what"
+
+1082
+01:04:19,360 --> 01:04:25,242
+"My heart and mind are far apart"
+
+1083
+01:04:39,040 --> 01:04:41,281
+"Love is strange"
+
+1084
+01:04:41,360 --> 01:04:45,490
+"For it makes you laugh and cry both"
+
+1085
+01:04:50,160 --> 01:04:52,561
+"Makes you dream.."
+
+1086
+01:04:52,640 --> 01:04:56,531
+"and takes sleep away"
+
+1087
+01:05:01,520 --> 01:05:04,285
+"What do I make of this dreamlike state"
+
+1088
+01:05:04,360 --> 01:05:07,091
+"For I know I am wide awake"
+
+1089
+01:05:07,160 --> 01:05:09,845
+"I walk on air and time stands still"
+
+1090
+01:05:10,000 --> 01:05:14,085
+"Do I even have a free will"
+
+1091
+01:05:15,560 --> 01:05:17,767
+"What is fact and what fiction?"
+
+1092
+01:05:17,840 --> 01:05:20,571
+"What is peace and what friction?"
+
+1093
+01:05:21,000 --> 01:05:23,287
+"O the dilemma,"
+
+1094
+01:05:23,360 --> 01:05:26,091
+"To do or not to do and what"
+
+1095
+01:05:26,760 --> 01:05:31,800
+"My heart and mind are far apart"
+
+1096
+01:05:32,360 --> 01:05:34,488
+"O the dilemma,"
+
+1097
+01:05:34,560 --> 01:05:37,769
+"To do or not to do and what"
+
+1098
+01:05:37,960 --> 01:05:43,091
+"My heart and mind are far apart"
+
+1099
+01:05:43,520 --> 01:05:46,285
+"O the dilemma"
+
+1100
+01:06:09,880 --> 01:06:11,086
+Sujata..
+
+1101
+01:06:11,240 --> 01:06:13,322
+Am I really being selfish?
+
+1102
+01:06:14,440 --> 01:06:16,283
+Have I betrayed Bala?
+
+1103
+01:06:17,360 --> 01:06:19,647
+"Closeness is a dilemma thing"
+
+1104
+01:06:19,720 --> 01:06:23,566
+"Because it does a distance bring"
+
+1105
+01:06:28,600 --> 01:06:30,807
+"And when you feel you're not alone"
+
+1106
+01:06:30,880 --> 01:06:34,930
+"You feel so far from yourself"
+
+1107
+01:06:39,880 --> 01:06:42,611
+"Like the sky that's
+clear but for some cloud"
+
+1108
+01:06:42,680 --> 01:06:45,411
+"like gentle tears
+that deep sorrow carry"
+
+1109
+01:06:45,480 --> 01:06:48,051
+"what then is close and what afar"
+
+1110
+01:06:48,120 --> 01:06:52,045
+"shall I go or shall I tarry"
+
+1111
+01:06:54,560 --> 01:06:55,527
+Hey! What's up?
+
+1112
+01:06:55,600 --> 01:06:56,761
+What's wrong?
+
+1113
+01:06:58,160 --> 01:06:59,525
+Cheer up darling..
+
+1114
+01:07:00,000 --> 01:07:01,889
+We all understand
+what you're going through.
+
+1115
+01:07:02,640 --> 01:07:03,801
+No you don't Tariq.
+
+1116
+01:07:04,200 --> 01:07:06,123
+Okay okay..change topic, change topic.
+
+1117
+01:07:06,520 --> 01:07:07,760
+What's happening with the book?
+
+1118
+01:07:07,920 --> 01:07:09,524
+I really don't want to
+talk about the book please.
+
+1119
+01:07:09,600 --> 01:07:11,489
+Why?
+
+1120
+01:07:11,560 --> 01:07:13,562
+We thought you were
+really excited about this.
+
+1121
+01:07:13,640 --> 01:07:15,051
+Was excited"
+
+1122
+01:07:16,080 --> 01:07:18,765
+Look, can we please stop
+talking about this damn book?
+
+1123
+01:07:18,960 --> 01:07:22,567
+Amaya, we're on your side by the way!
+
+1124
+01:07:22,640 --> 01:07:24,244
+Oh thank you!
+
+1125
+01:07:24,600 --> 01:07:26,648
+What makes you think,
+I need people on my side?
+
+1126
+01:07:28,000 --> 01:07:29,365
+I should never have come here.
+
+1127
+01:07:29,960 --> 01:07:30,643
+Amaya?
+
+1128
+01:07:30,720 --> 01:07:32,370
+"O the dilemma,"
+
+1129
+01:07:32,440 --> 01:07:35,523
+"To do or not to do and what"
+
+1130
+01:07:35,600 --> 01:07:40,640
+"My heart and mind are far apart"
+
+1131
+01:07:41,320 --> 01:07:44,324
+"O the dilemma"
+
+1132
+01:07:46,280 --> 01:07:49,921
+"O the dilemma,"
+
+1133
+01:07:52,560 --> 01:07:55,848
+"O the dilemma,"
+
+1134
+01:07:58,160 --> 01:08:00,606
+"O the dilemma,"
+
+1135
+01:08:00,680 --> 01:08:02,205
+Sir, may I come in?
+
+1136
+01:08:15,400 --> 01:08:16,640
+Leela aunty?
+
+1137
+01:08:17,080 --> 01:08:18,445
+Aunty Leela..
+
+1138
+01:08:18,920 --> 01:08:20,888
+I'm here..in the store room.
+
+1139
+01:08:22,400 --> 01:08:23,765
+Come on out.
+
+1140
+01:08:27,480 --> 01:08:28,561
+What's this?
+
+1141
+01:08:30,280 --> 01:08:31,441
+Aunty?
+
+1142
+01:08:31,720 --> 01:08:34,326
+Has your labour union called a strike?
+
+1143
+01:08:34,720 --> 01:08:36,529
+Our demands be met, our only taunt.
+
+1144
+01:08:36,600 --> 01:08:38,409
+Cappuccinos twice a
+day, are what we want!
+
+1145
+01:08:38,560 --> 01:08:40,085
+Raghav, what are you saying...?
+
+1146
+01:08:40,520 --> 01:08:42,761
+For the past two days, I've
+been lugging this elephant around
+
+1147
+01:08:42,840 --> 01:08:44,569
+and your factory's
+been locked up all this time!
+
+1148
+01:08:44,640 --> 01:08:46,324
+Factory? Elephant"?
+
+1149
+01:08:46,720 --> 01:08:47,482
+Forget it aunty,
+
+1150
+01:08:47,560 --> 01:08:49,688
+look what I have for you..
+
+1151
+01:08:49,920 --> 01:08:51,570
+So what is it?
+
+1152
+01:08:56,440 --> 01:08:57,646
+Drum roll please.
+
+1153
+01:09:04,200 --> 01:09:06,441
+I like it, it's lovely!
+
+1154
+01:09:07,080 --> 01:09:07,842
+WOW!
+
+1155
+01:09:07,920 --> 01:09:09,251
+Yeah, but looking at this place,
+
+1156
+01:09:09,320 --> 01:09:11,482
+It actually looks like it
+needs people more than a signboard!
+
+1157
+01:09:11,560 --> 01:09:12,721
+Where is everyone?
+
+1158
+01:09:13,080 --> 01:09:14,241
+Ma!
+
+1159
+01:09:14,440 --> 01:09:15,601
+Ma?
+
+1160
+01:09:17,840 --> 01:09:20,081
+You want to get married, live
+together" do whatever you want.
+
+1161
+01:09:20,160 --> 01:09:21,082
+It's your life, I really don't care.
+
+1162
+01:09:21,160 --> 01:09:22,207
+But you please tell Jazz..
+
+1163
+01:09:22,280 --> 01:09:23,167
+You please tell Jayant not to call me.
+
+1164
+01:09:23,240 --> 01:09:24,287
+I will not take his calls.
+
+1165
+01:09:32,520 --> 01:09:33,487
+Jayant?
+
+1166
+01:09:34,320 --> 01:09:37,642
+From here on, please
+don't call Amaya again.
+
+1167
+01:09:52,520 --> 01:09:53,806
+You okay aunty?
+
+1168
+01:10:05,160 --> 01:10:06,286
+Hey Amaya..
+
+1169
+01:10:10,960 --> 01:10:13,611
+You only pretend to be a modern,
+
+1170
+01:10:13,680 --> 01:10:15,284
+open minded girl.
+
+1171
+01:10:15,560 --> 01:10:17,608
+The truth is that you
+are actually a hypocrite.
+
+1172
+01:10:17,960 --> 01:10:18,961
+Fuck of Raghav!
+
+1173
+01:10:19,040 --> 01:10:20,166
+<i>Oh I will,</i>
+
+1174
+01:10:20,760 --> 01:10:23,001
+but why do you have to hurt her so much?
+
+1175
+01:10:24,080 --> 01:10:25,002
+Hurt her?
+
+1176
+01:10:25,960 --> 01:10:27,405
+Nobody understands how I'm feeling,
+
+1177
+01:10:27,480 --> 01:10:29,528
+it doesn't make a difference to anyone!
+
+1178
+01:10:30,600 --> 01:10:32,921
+And in any case, this is
+none of your business, so..
+
+1179
+01:10:33,160 --> 01:10:34,571
+Listen listen" Do you actually believe
+
+1180
+01:10:34,640 --> 01:10:36,404
+that it doesn't make
+a difference to anybody?
+
+1181
+01:10:37,160 --> 01:10:38,571
+Are you a child Amaya?
+
+1182
+01:10:38,640 --> 01:10:40,244
+- Look I'm not interested
+in your.. - I'm not done yet.
+
+1183
+01:10:46,400 --> 01:10:48,721
+I was eight when my parents separated.
+
+1184
+01:10:49,480 --> 01:10:50,811
+Mum married again,
+
+1185
+01:10:51,560 --> 01:10:54,245
+but dad didn't..for us.
+
+1186
+01:10:55,480 --> 01:10:57,050
+My sister and I got
+busy with our own lives,
+
+1187
+01:10:57,120 --> 01:10:58,326
+But dad..
+
+1188
+01:10:59,320 --> 01:11:01,243
+He just got so very lonely.
+
+1189
+01:11:02,680 --> 01:11:04,728
+It was sad to see him like that Amaya.
+
+1190
+01:11:05,560 --> 01:11:07,483
+We convinced him to get married again,
+
+1191
+01:11:07,560 --> 01:11:09,164
+and he did get married again.
+
+1192
+01:11:12,720 --> 01:11:14,449
+Look Amaya, I can understand
+
+1193
+01:11:14,520 --> 01:11:15,885
+that it might be embarrassing for you.
+
+1194
+01:11:15,960 --> 01:11:17,450
+What will people say and all of that.
+
+1195
+01:11:17,520 --> 01:11:18,487
+We were too"
+
+1196
+01:11:19,200 --> 01:11:21,089
+but we can't be so selfish.
+
+1197
+01:11:21,680 --> 01:11:24,411
+Amaya.. everything is not about you.
+
+1198
+01:11:28,800 --> 01:11:30,609
+Everyone knows that
+you're fond of Jayant,
+
+1199
+01:11:30,680 --> 01:11:31,920
+so what is the problem?
+
+1200
+01:11:37,960 --> 01:11:39,610
+I'll tell you what
+the problem is Raghav.
+
+1201
+01:11:39,880 --> 01:11:41,166
+The problem is that.
+
+1202
+01:11:45,480 --> 01:11:46,970
+Well the problem is..
+
+1203
+01:11:52,120 --> 01:11:53,406
+Problem is
+
+1204
+01:11:53,480 --> 01:11:56,404
+to know that your mother
+is sleeping with another man.
+
+1205
+01:12:09,320 --> 01:12:11,129
+You disappoint me Amaya.
+
+1206
+01:12:43,960 --> 01:12:45,450
+Rizwaan bhai?
+
+1207
+01:12:47,320 --> 01:12:48,731
+Please come..have a seat.
+
+1208
+01:12:50,360 --> 01:12:51,122
+Did you have a watch for repair?
+
+1209
+01:12:51,200 --> 01:12:53,487
+No! I only came along to meet him.
+
+1210
+01:12:54,880 --> 01:12:57,929
+My father passed away last week.
+
+1211
+01:13:04,960 --> 01:13:07,122
+Your father was an extraordinary man.
+
+1212
+01:13:10,440 --> 01:13:13,284
+I had some of his snaps
+that I wanted to give to him.
+
+1213
+01:13:20,280 --> 01:13:21,645
+Oh!
+
+1214
+01:13:23,440 --> 01:13:25,602
+So you are the one my father spoke of!
+
+1215
+01:13:27,840 --> 01:13:29,285
+He spoke of me?
+
+1216
+01:13:29,560 --> 01:13:30,891
+Yes..
+
+1217
+01:13:31,000 --> 01:13:31,887
+Everyone comes here
+
+1218
+01:13:31,960 --> 01:13:34,247
+to simply have their watches repaired.
+
+1219
+01:13:34,680 --> 01:13:37,160
+You were the only one,
+
+1220
+01:13:37,240 --> 01:13:38,969
+who came here to simply spend time..
+
+1221
+01:13:39,560 --> 01:13:42,325
+Which is probably why,
+you stuck in my father's memory.
+
+1222
+01:13:44,400 --> 01:13:47,927
+These pictures will always bring back
+
+1223
+01:13:48,000 --> 01:13:49,729
+happy memories of my father.
+
+1224
+01:13:50,320 --> 01:13:52,891
+Rizwaan used to say that memories
+
+1225
+01:13:52,960 --> 01:13:55,247
+were never meant to
+be stored in photographs,
+
+1226
+01:13:56,920 --> 01:13:58,968
+but in the mind instead.
+
+1227
+01:14:16,880 --> 01:14:18,450
+Aditi?
+
+1228
+01:14:57,800 --> 01:14:59,211
+Lunch is on the table.
+
+1229
+01:14:59,600 --> 01:15:01,125
+I'm not hungry.
+
+1230
+01:15:03,600 --> 01:15:05,011
+Why?
+
+1231
+01:15:05,520 --> 01:15:07,045
+What is the problem Amaya?
+
+1232
+01:15:08,880 --> 01:15:09,927
+When I am to eat,
+
+1233
+01:15:10,000 --> 01:15:12,082
+what time I'm to
+sleep, whom I want to meet..
+
+1234
+01:15:12,440 --> 01:15:14,090
+Is my decision Ma.
+
+1235
+01:15:14,320 --> 01:15:17,130
+I'm not a child, and
+you need to realize that.
+
+1236
+01:15:18,280 --> 01:15:19,486
+Accepted.
+
+1237
+01:15:19,560 --> 01:15:22,245
+But you also need to
+realize, that I am still your mother.
+
+1238
+01:15:22,320 --> 01:15:25,005
+Please Ma, I'm really
+in no mood to have a fight.
+
+1239
+01:15:26,360 --> 01:15:29,648
+So, now I can't even
+ask you to eat on time?
+
+1240
+01:15:30,440 --> 01:15:31,851
+Amaya, listen to me!
+
+1241
+01:15:33,920 --> 01:15:36,287
+You constantly claim
+
+1242
+01:15:36,360 --> 01:15:38,567
+that you're grown up and mature.
+
+1243
+01:15:38,840 --> 01:15:41,161
+But grown up's don't behave like this!
+
+1244
+01:15:41,640 --> 01:15:43,881
+And when have I
+treated you like a child?
+
+1245
+01:15:44,400 --> 01:15:47,324
+You've always done
+what you've wanted to do,
+
+1246
+01:15:48,400 --> 01:15:51,768
+but that doesn't mean,
+that I'll stop looking after you.
+
+1247
+01:15:53,400 --> 01:15:54,890
+Whenever you falter or fall,
+
+1248
+01:15:54,960 --> 01:15:56,803
+I will always be
+there to help you back up.
+
+1249
+01:15:57,160 --> 01:15:58,889
+And that's never going to change.
+
+1250
+01:16:02,520 --> 01:16:03,885
+And I..
+
+1251
+01:16:04,400 --> 01:16:07,290
+I think I deserve a
+little more respect from you.
+
+1252
+01:16:15,160 --> 01:16:17,811
+“Is it just the sex?“
+
+1253
+01:16:18,280 --> 01:16:19,805
+Isn't that what you asked me?
+
+1254
+01:16:22,000 --> 01:16:24,685
+Maybe we truly don't know each other.
+
+1255
+01:17:35,880 --> 01:17:37,609
+A part of me
+
+1256
+01:17:38,120 --> 01:17:40,043
+which died along with Bala,
+
+1257
+01:17:40,400 --> 01:17:42,323
+will probably never come back..
+
+1258
+01:17:44,160 --> 01:17:46,686
+But it's only after I met you,
+
+1259
+01:17:47,040 --> 01:17:51,762
+I realized that life is not
+lived for the sake of memories,
+
+1260
+01:17:52,680 --> 01:17:55,650
+memories are only a
+small part of our lives.
+
+1261
+01:18:21,880 --> 01:18:23,882
+How long have we known each other?
+
+1262
+01:18:24,760 --> 01:18:26,569
+Three? Three and a half years?
+
+1263
+01:18:29,480 --> 01:18:31,050
+It's really strange,
+
+1264
+01:18:31,760 --> 01:18:35,207
+how seamlessly and
+naturally you fit into my life..
+
+1265
+01:18:37,240 --> 01:18:40,210
+It didn't feel like
+anything had ever changed.
+
+1266
+01:18:43,440 --> 01:18:45,090
+I don't even remember,
+
+1267
+01:18:46,520 --> 01:18:50,127
+when I began trusting
+you, more than l trusted myself.
+
+1268
+01:18:57,880 --> 01:19:00,531
+When you began to understand me,
+
+1269
+01:19:00,600 --> 01:19:02,409
+without me saying a single word.
+
+1270
+01:19:04,080 --> 01:19:05,844
+Which was that moment,
+
+1271
+01:19:05,920 --> 01:19:07,843
+where without so
+much as holding my hand,
+
+1272
+01:19:08,600 --> 01:19:10,284
+you completely enveloped me.
+
+1273
+01:19:12,800 --> 01:19:14,564
+And irrespective of when this happened,
+
+1274
+01:19:15,080 --> 01:19:19,449
+I always felt that if I could
+live out the rest of my life like this,
+
+1275
+01:19:19,520 --> 01:19:22,251
+so where was the harm?
+
+1276
+01:19:22,920 --> 01:19:24,570
+To be honest with you,
+
+1277
+01:19:24,640 --> 01:19:25,971
+it never crossed my mind,
+
+1278
+01:19:26,040 --> 01:19:29,123
+that I needed to define,
+
+1279
+01:19:29,200 --> 01:19:32,807
+or justify this relationship to anyone.
+
+1280
+01:19:38,160 --> 01:19:39,844
+Any happiness that I seek for myself,
+
+1281
+01:19:39,920 --> 01:19:42,321
+in which my daughter is unhappy..
+
+1282
+01:19:43,800 --> 01:19:45,290
+Is unacceptable to me.
+
+1283
+01:19:49,040 --> 01:19:51,088
+I wish we could have
+spent our lives together.
+
+1284
+01:19:57,240 --> 01:19:59,368
+I've expressed it many times,
+
+1285
+01:20:00,800 --> 01:20:02,564
+but never openly said it before.
+
+1286
+01:20:06,240 --> 01:20:07,480
+I love you Leela,
+
+1287
+01:20:09,720 --> 01:20:11,404
+and I love Amaya too.
+
+1288
+01:20:14,840 --> 01:20:16,126
+I know..
+
+1289
+01:20:29,920 --> 01:20:31,331
+Thanks to this book,
+
+1290
+01:20:31,400 --> 01:20:34,290
+I've seen parts of this city
+that I myself didn't know existed!
+
+1291
+01:20:35,440 --> 01:20:36,680
+Hi Mr. Khanna,
+
+1292
+01:20:36,920 --> 01:20:38,081
+I'm so sorry I'm late.
+
+1293
+01:20:38,160 --> 01:20:39,571
+Hi Amaya!
+
+1294
+01:20:40,040 --> 01:20:41,610
+What a pleasure to see you..
+
+1295
+01:20:43,200 --> 01:20:47,125
+I was just giving
+Mr. Sinha the good news,
+
+1296
+01:20:48,360 --> 01:20:51,921
+that the first prints of your book,
+
+1297
+01:20:52,240 --> 01:20:53,810
+should arrive later this week.
+
+1298
+01:20:54,640 --> 01:20:56,768
+So lets further
+this budding relationship.
+
+1299
+01:20:57,680 --> 01:20:59,205
+Why don't the both of you,
+
+1300
+01:20:59,280 --> 01:21:02,966
+start work on the sequel to this book?
+
+1301
+01:21:05,640 --> 01:21:07,563
+Mr. Khanna, this was one of my
+
+1302
+01:21:07,640 --> 01:21:10,325
+last surviving ambitions
+in life, which is in the process
+
+1303
+01:21:11,000 --> 01:21:12,684
+of coming true through Amaya.
+
+1304
+01:21:14,040 --> 01:21:15,041
+So after this,
+
+1305
+01:21:15,120 --> 01:21:16,929
+I'm going to
+actually retire into the hills.
+
+1306
+01:21:17,920 --> 01:21:19,365
+Spend some time alone,
+
+1307
+01:21:19,440 --> 01:21:21,283
+away from everyone and all attachments.
+
+1308
+01:21:22,000 --> 01:21:23,331
+And in any case,
+
+1309
+01:21:23,400 --> 01:21:26,085
+not all relationships get
+to their desired destinations.
+
+1310
+01:21:26,960 --> 01:21:28,962
+Many remain
+unfulfilled and incomplete too"
+
+1311
+01:21:29,160 --> 01:21:30,605
+Well, you're right.
+
+1312
+01:21:30,800 --> 01:21:33,770
+However, my offer is on the table.
+
+1313
+01:21:34,520 --> 01:21:36,648
+All the best to both of you,
+
+1314
+01:21:37,440 --> 01:21:40,011
+you two make a really good team.
+
+1315
+01:21:46,200 --> 01:21:47,326
+How are you Bahadur?
+
+1316
+01:21:47,400 --> 01:21:48,606
+All well?
+
+1317
+01:21:53,000 --> 01:21:54,047
+Oh God!
+
+1318
+01:21:55,280 --> 01:21:56,691
+I almost forgot.
+
+1319
+01:22:01,040 --> 01:22:03,805
+Here, I forgot to give you
+something that belongs to you!
+
+1320
+01:22:07,360 --> 01:22:09,044
+What do you think?
+
+1321
+01:22:09,400 --> 01:22:10,481
+Isn't it nice!
+
+1322
+01:22:10,760 --> 01:22:13,331
+You're looking like a
+complete film star here!
+
+1323
+01:22:13,640 --> 01:22:15,210
+So, will you send
+these back to your village?
+
+1324
+01:22:15,680 --> 01:22:18,047
+Take care of yourself..
+
+1325
+01:23:25,440 --> 01:23:26,851
+What happened to your hand?
+
+1326
+01:23:33,720 --> 01:23:35,131
+Why didn't you tell me?
+
+1327
+01:24:13,600 --> 01:24:15,045
+So what can I get you, tell me?
+
+1328
+01:24:15,560 --> 01:24:16,800
+Two Costa Ricans
+
+1329
+01:24:17,320 --> 01:24:18,207
+okay"
+
+1330
+01:24:20,600 --> 01:24:21,726
+Anything else?
+
+1331
+01:24:22,040 --> 01:24:23,121
+Okay.
+
+1332
+01:24:26,000 --> 01:24:27,126
+Can I help with anything?
+
+1333
+01:24:27,440 --> 01:24:28,202
+Why are you asking?
+
+1334
+01:24:28,280 --> 01:24:29,441
+There are so many mugs lying there..
+
+1335
+01:24:29,520 --> 01:24:30,760
+Go clear them.
+
+1336
+01:25:30,120 --> 01:25:33,090
+To my little girl,
+who wrote The Busy Bazaar.
+
+1337
+01:25:34,120 --> 01:25:35,690
+The night you were born,
+
+1338
+01:25:35,960 --> 01:25:37,962
+it was pouring rain.
+
+1339
+01:25:38,600 --> 01:25:43,208
+Dad and I waited 15 hours
+to see you for the first time.
+
+1340
+01:25:44,240 --> 01:25:46,607
+We'd already
+decided that if it was a girl,
+
+1341
+01:25:46,680 --> 01:25:48,045
+we would name her Amaya..
+
+1342
+01:25:48,240 --> 01:25:49,366
+Night rain.
+
+1343
+01:25:50,120 --> 01:25:51,645
+You brought us so much joy,
+
+1344
+01:25:51,720 --> 01:25:52,960
+and still do..
+
+1345
+01:25:53,160 --> 01:25:54,889
+I never meant to hurt you Amaya
+
+1346
+01:25:55,200 --> 01:25:56,804
+and I love you always.
+
+1347
+01:25:57,400 --> 01:25:58,640
+Ma.
+
+1348
+01:26:01,200 --> 01:26:02,440
+It's open.
+
+1349
+01:26:04,720 --> 01:26:05,960
+Hello Amaya!
+
+1350
+01:26:06,240 --> 01:26:07,287
+Aunty!
+
+1351
+01:26:14,400 --> 01:26:16,880
+Come..let me look at you!
+
+1352
+01:26:20,200 --> 01:26:21,770
+You look gorgeous!
+
+1353
+01:26:22,560 --> 01:26:23,686
+I missed you.
+
+1354
+01:26:24,360 --> 01:26:25,600
+So did I!
+
+1355
+01:26:25,680 --> 01:26:27,887
+Why didn't you come to meet me?
+
+1356
+01:26:28,640 --> 01:26:30,404
+I really wanted to see you..
+
+1357
+01:26:30,560 --> 01:26:31,721
+I know.
+
+1358
+01:26:32,280 --> 01:26:34,248
+Okay, so tell me ..how are you?
+
+1359
+01:26:35,680 --> 01:26:36,966
+Not okay.
+
+1360
+01:26:37,200 --> 01:26:39,043
+Hmmm..l know that as well.
+
+1361
+01:26:41,520 --> 01:26:42,681
+I'm not evil aunty,
+
+1362
+01:26:42,760 --> 01:26:44,330
+I'm not a bad person.
+
+1363
+01:26:45,440 --> 01:26:46,885
+So why does everyone think I am?
+
+1364
+01:26:47,160 --> 01:26:48,650
+I feel like such a villain!
+
+1365
+01:26:49,240 --> 01:26:51,481
+Of course you're not a bad person Amaya,
+
+1366
+01:26:52,080 --> 01:26:53,730
+but since when has it
+started mattering to you,
+
+1367
+01:26:53,800 --> 01:26:55,882
+what other people think?
+
+1368
+01:26:56,080 --> 01:26:57,764
+It didn't matter earlier,
+
+1369
+01:26:57,840 --> 01:26:59,649
+but it's started mattering to me now.
+
+1370
+01:27:07,920 --> 01:27:09,888
+The situation you are in now,
+
+1371
+01:27:10,720 --> 01:27:12,882
+is not easy to deal with at all.
+
+1372
+01:27:13,800 --> 01:27:15,529
+What would you have done in my place?
+
+1373
+01:27:21,000 --> 01:27:22,411
+Now what's the point Amaya?
+
+1374
+01:27:24,600 --> 01:27:25,965
+Please tell me aunty,
+
+1375
+01:27:26,400 --> 01:27:27,731
+I really want to know.
+
+1376
+01:27:28,080 --> 01:27:29,127
+To tell you the truth,
+
+1377
+01:27:29,400 --> 01:27:31,607
+I don't know what I
+would have done myself.
+
+1378
+01:27:32,400 --> 01:27:33,606
+Does grandma know?
+
+1379
+01:27:33,960 --> 01:27:35,450
+Grandma?
+
+1380
+01:27:40,120 --> 01:27:41,963
+Mummy always wanted
+
+1381
+01:27:42,040 --> 01:27:43,769
+Leela to settle down again.
+
+1382
+01:27:44,600 --> 01:27:49,845
+Leela's probably spent the
+best years of her life alone,
+
+1383
+01:27:50,400 --> 01:27:52,721
+which is why we were very happy,
+
+1384
+01:27:52,800 --> 01:27:55,007
+to see Leela and Jayant together.
+
+1385
+01:27:55,600 --> 01:27:57,125
+Come on aunty,
+
+1386
+01:27:57,200 --> 01:27:59,089
+dad was your brother after all..
+
+1387
+01:28:00,440 --> 01:28:03,171
+That relationship
+can never change Amaya,
+
+1388
+01:28:03,720 --> 01:28:06,405
+but on the back of old relationships,
+
+1389
+01:28:06,960 --> 01:28:09,440
+you don't stop making new ones.
+
+1390
+01:28:10,080 --> 01:28:12,401
+Anyhow, now nothing will change.
+
+1391
+01:28:13,080 --> 01:28:16,004
+What you want, is what will happen.
+
+1392
+01:28:16,480 --> 01:28:17,641
+Happy?
+
+1393
+01:28:20,120 --> 01:28:21,121
+You're right,
+
+1394
+01:28:22,760 --> 01:28:25,081
+what I fought for
+against the entire world,
+
+1395
+01:28:25,880 --> 01:28:27,006
+has now happened.
+
+1396
+01:28:29,360 --> 01:28:30,566
+But I'm not happy.
+
+1397
+01:28:31,960 --> 01:28:33,291
+Why is that?
+
+1398
+01:28:35,880 --> 01:28:37,120
+I don't know..
+
+1399
+01:28:38,920 --> 01:28:40,843
+I can't seem to help thinking"
+
+1400
+01:28:42,080 --> 01:28:43,889
+not only did I lose dad a long time ago,
+
+1401
+01:28:45,000 --> 01:28:46,570
+but now I think, I've lost Ma too.
+
+1402
+01:29:40,960 --> 01:29:42,450
+I'm so sorry Ma..
+
+1403
+01:29:58,000 --> 01:29:59,809
+I'm so sorry.
+
+1404
+01:30:11,200 --> 01:30:12,167
+Okay.
+
+1405
+01:30:13,920 --> 01:30:15,081
+Very nice!
+
+1406
+01:30:15,640 --> 01:30:16,926
+It works.
+
+1407
+01:30:18,120 --> 01:30:20,407
+I want to meet with Jayant.
+
+1408
+01:30:22,280 --> 01:30:23,691
+Why?
+
+1409
+01:30:24,320 --> 01:30:26,721
+A lot of thought went
+behind the decision we've taken.
+
+1410
+01:30:27,160 --> 01:30:30,687
+The decision may be wrong though?
+
+1411
+01:30:32,760 --> 01:30:36,242
+Well, if it's wrong, so be it.
+
+1412
+01:30:37,800 --> 01:30:39,040
+Don't worry.
+
+1413
+01:31:37,400 --> 01:31:39,084
+Why isn't someone opening the door?
+
+1414
+01:31:49,200 --> 01:31:50,690
+Hi..
+
+1415
+01:32:06,520 --> 01:32:07,885
+Please sit.
+
+1416
+01:32:24,480 --> 01:32:27,404
+Our book is being published today"
+
+1417
+01:32:28,440 --> 01:32:29,930
+I'm very happy for You-
+
+1418
+01:32:55,760 --> 01:32:57,000
+Jazz?
+
+1419
+01:33:07,200 --> 01:33:09,362
+Why do you never get angry?
+
+1420
+01:33:11,200 --> 01:33:13,123
+How can anybody be so good?
+
+1421
+01:33:15,520 --> 01:33:18,410
+You know, If dad were around,
+
+1422
+01:33:18,480 --> 01:33:20,244
+he would have
+slapped some sense into me,
+
+1423
+01:33:20,320 --> 01:33:21,924
+a long time ago.
+
+1424
+01:33:23,440 --> 01:33:24,930
+I'm sorry.
+
+1425
+01:33:54,040 --> 01:33:56,168
+This book would never
+have been completed without you.
+
+1426
+01:33:56,240 --> 01:33:57,480
+Come on!
+
+1427
+01:34:05,160 --> 01:34:06,321
+Jazz?
+
+1428
+01:34:08,760 --> 01:34:09,966
+So,
+
+1429
+01:34:14,680 --> 01:34:16,284
+are you going to give Ma a ring?
+
+1430
+01:34:25,880 --> 01:34:27,245
+Very Poor joke..
+
+1431
+01:34:28,160 --> 01:34:29,241
+Very poor!
+
+1432
+01:34:29,320 --> 01:34:30,560
+Horrible.
+
+1433
+01:34:37,920 --> 01:34:39,604
+Oh..
+
+1434
+01:34:41,560 --> 01:34:42,846
+Hi!
+
+1435
+01:34:43,200 --> 01:34:44,850
+Didn't you say you were leaving?
+
+1436
+01:34:46,120 --> 01:34:47,565
+Well if you so wish,
+I can leave right now..
+
+1437
+01:34:47,760 --> 01:34:48,921
+Please..
+
+1438
+01:34:49,000 --> 01:34:50,365
+My God, both of you
+are such drama queens!
+
+1439
+01:34:50,440 --> 01:34:52,522
+I'm a drama queen?
+
+1440
+01:34:56,440 --> 01:34:57,965
+Don't tell me..
+
+1441
+01:34:58,280 --> 01:34:59,611
+What!
+
+1442
+01:35:04,640 --> 01:35:05,766
+The book!
+
+1443
+01:35:05,840 --> 01:35:07,365
+My God!
+
+1444
+01:35:07,960 --> 01:35:09,485
+Look at this"
+
+1445
+01:35:11,480 --> 01:35:12,606
+Dear Ma,
+
+1446
+01:35:12,880 --> 01:35:16,202
+Thank you for always being
+the most important part of my life,
+
+1447
+01:35:16,800 --> 01:35:19,087
+even when I lost my way recently.
+
+1448
+01:35:19,600 --> 01:35:21,011
+Dear Leela,
+
+1449
+01:35:21,080 --> 01:35:23,890
+for memories that will
+last the rest of my life,
+
+1450
+01:35:24,120 --> 01:35:25,360
+affectionately,
+
+1451
+01:35:25,440 --> 01:35:26,771
+Jayant.
+
+1452
+01:35:27,120 --> 01:35:28,690
+WOW!
+
+1453
+01:35:30,120 --> 01:35:31,565
+Someone had once said,
+
+1454
+01:35:32,040 --> 01:35:33,849
+the day your first book gets published,
+
+1455
+01:35:34,320 --> 01:35:37,642
+we'll celebrate it with Champagne.
+
+1456
+01:35:42,840 --> 01:35:45,207
+Memories of the Busy Bazaar.
+
+1457
+01:35:45,840 --> 01:35:46,921
+Finally!
+
+1458
+01:36:20,600 --> 01:36:21,567
+Hey,
+
+1459
+01:36:21,720 --> 01:36:22,767
+why don't you get the book?
+
+1460
+01:36:22,960 --> 01:36:25,008
+Lets get a reading!
+
+1461
+01:36:27,360 --> 01:36:28,361
+Photo time"
+
+1462
+01:36:28,640 --> 01:36:31,086
+This is the time to get it all in!
+
+1463
+01:36:32,800 --> 01:36:34,928
+Photo, photo, photo..
+
+1464
+01:36:36,800 --> 01:36:38,404
+Lets have all your teeth in..
+
+1465
+01:36:38,480 --> 01:36:39,402
+Yes!
+
+1466
+01:36:40,800 --> 01:36:42,609
+Memories of the Busy Bazaar,
+
+1467
+01:36:43,400 --> 01:36:44,526
+foreword by
+
+1468
+01:36:45,360 --> 01:36:46,725
+Amaya Krishnamoorthy.
+
+1469
+01:36:49,240 --> 01:36:50,924
+No matter who you are,
+
+1470
+01:36:51,400 --> 01:36:53,641
+where you belong and
+what language you speak,
+
+1471
+01:36:54,320 --> 01:36:57,244
+everyone at some time or
+the other, has always said,
+
+1472
+01:36:59,440 --> 01:37:00,965
+I remember when..
+
+1473
+01:37:04,440 --> 01:37:06,920
+I remember the first
+time my father slapped me.
+
+1474
+01:37:08,560 --> 01:37:10,449
+I remember when he said to me,
+
+1475
+01:37:10,720 --> 01:37:12,370
+you'll be famous.
+
+1476
+01:37:13,680 --> 01:37:16,206
+And I remember the day my father died.
+
+1477
+01:37:17,880 --> 01:37:19,848
+I remember when I learnt to write,
+
+1478
+01:37:21,000 --> 01:37:22,764
+I wrote a story in my own mind.
+
+1479
+01:37:23,840 --> 01:37:25,729
+I don't remember the
+number of times I wept,
+
+1480
+01:37:26,840 --> 01:37:29,650
+But I cannot forget
+each moment that I laughed.
+
+1481
+01:37:30,320 --> 01:37:31,970
+Everything that was dear to me,
+
+1482
+01:37:32,920 --> 01:37:34,524
+I preserved in my memories.
+
+1483
+01:37:36,040 --> 01:37:37,201
+Bye Ma!
+
+1484
+01:37:37,480 --> 01:37:38,845
+I saw happiness,
+
+1485
+01:37:38,920 --> 01:37:40,126
+and I saw my fair share of sorrow.
+
+1486
+01:37:40,960 --> 01:37:42,121
+But with time,
+
+1487
+01:37:42,680 --> 01:37:44,569
+even that stopped stinging.
+
+1488
+01:37:48,560 --> 01:37:49,800
+Guruji?
+
+1489
+01:37:51,240 --> 01:37:52,446
+Jazz?
+
+1490
+01:37:53,760 --> 01:37:54,966
+Hello!
+
+1491
+01:37:56,680 --> 01:37:57,841
+Why are you standing here?
+
+1492
+01:38:01,360 --> 01:38:02,282
+What's happened?
+
+1493
+01:38:02,480 --> 01:38:04,608
+I can't remember where I wanted to go.
+
+1494
+01:38:04,920 --> 01:38:07,366
+What do you mean, the
+cafe's just around the corner..
+
+1495
+01:38:07,440 --> 01:38:08,441
+I never considered,
+
+1496
+01:38:08,520 --> 01:38:09,760
+whether I made my memories,
+
+1497
+01:38:09,840 --> 01:38:11,410
+or whether memories made up my life.
+
+1498
+01:38:12,080 --> 01:38:14,890
+Though I lived my
+life through my memories..
+
+1499
+01:38:15,360 --> 01:38:17,806
+I can't remember,
+which way I have to go.
+
+1500
+01:38:18,120 --> 01:38:19,804
+What can't you remember Jazz?
+
+1501
+01:38:20,200 --> 01:38:21,361
+The cafe is right here,
+
+1502
+01:38:21,440 --> 01:38:22,646
+are you okay?
+
+1503
+01:38:24,360 --> 01:38:25,930
+I can't remember Aditi..
+
+1504
+01:38:26,000 --> 01:38:28,446
+I can't remember, where I have to go.
+
+1505
+01:38:29,520 --> 01:38:31,443
+I can't remember..
+
+1506
+01:38:35,400 --> 01:38:37,084
+I kept every moment alive.
+
+1507
+01:38:38,200 --> 01:38:39,725
+I relived every memory,
+
+1508
+01:38:39,800 --> 01:38:42,963
+I often even spoke
+with them like old friends.
+
+1509
+01:38:43,400 --> 01:38:46,210
+Not realizing, that
+like sand through ones fingers,
+
+1510
+01:38:46,520 --> 01:38:49,251
+memories also don't
+stay with you forever.
+
+1511
+01:38:51,680 --> 01:38:53,364
+Ma, Jazz can't remember..
+
+1512
+01:39:02,800 --> 01:39:03,961
+You knew?
+
+1513
+01:39:10,320 --> 01:39:11,765
+Why didn't you tell me earlier?
+
+1514
+01:39:34,040 --> 01:39:36,122
+Living each moment that life offered up,
+
+1515
+01:39:37,200 --> 01:39:39,680
+maybe in this one
+moment, I've found life itself.
+
+1516
+01:39:40,800 --> 01:39:42,131
+And this moment,
+
+1517
+01:39:42,600 --> 01:39:44,887
+even my memories can't snatch from me.
+
+1518
+01:40:13,520 --> 01:40:15,363
+Jayant had said one day,
+
+1519
+01:40:16,520 --> 01:40:19,444
+Leela you and I will
+travel the world together.
+
+1520
+01:40:24,280 --> 01:40:25,850
+I hope he remembers.
+
+1521
+01:40:33,280 --> 01:40:34,441
+Amaya?
+
+1522
+01:40:41,720 --> 01:40:42,642
+I'm listening Ma.
