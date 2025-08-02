@@ -6,7 +6,7 @@ Filtering: Cleaned the release_year column to ensure correct datatypes.
 Sampling: Wrote a Python script to randomly sample 100 movies released after 2010.
 
 ## Step 2: Gathering Movie Data
-# 2a. Posters
+### 2a. Posters
 Used the poster_path from the dataset to download posters.
 Logged failed poster downloads (due to missing path or link errors) into a .txt file.
 Attempted to scrape posters for failed entries from their corresponding Wikipedia pages.
