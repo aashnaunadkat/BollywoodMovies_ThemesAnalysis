@@ -26,7 +26,7 @@ Extended the descriptions by scraping longer plot summaries or synopses from the
 
 
 ## Step 3: Getting Metadata
-# 3a. Getting Director Gender
+### 3a. Getting Director Gender
 Used the OMDB API to retrieve director names for each movie by imdb_id, stored as director_1_name and director_2_name.
 Inferred gender for each director using:
 Step 1: Scraped the director’s Wikipedia page and analyzed the first paragraph for gendered pronouns.
