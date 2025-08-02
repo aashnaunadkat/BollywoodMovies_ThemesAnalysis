@@ -1,0 +1,58 @@
+You will be given a set of txt files. Each file is named using the IMDb ID of a movie (e.g., tt1234567.pdf) and contains the following information:
+1. imdb_id of the movie as imd_id: {imdb_id}
+2. the synopsis of that movie
+3. subtitles for that movie (this field will be demarcated as SUBTITLES. it may be missing for some movies) 
+
+Your task is to analyze the file to identify whether the movie explores any of the following sociopolitical themes:
+- Hindu-Muslim relations
+- Gender relations
+- Nationalism
+
+Each movie may explore more than one theme. For each theme that is identified, assess the movie’s messaging using four analytical axes:
+
+- Inclusive vs Exclusionary
+- Positive vs Negative
+- Progressive vs Conservative
+- Escapist vs Confrontational
+
+If a theme is not explored in a movie, code the theme as 0 and set all 4 sentiment axes to N/A.
+
+Instructions:
+If the file contains fewer than 500 characters, return "Not enough information" in the failure_log column, and set all coded variables to 0 or N/A as required.
+
+The imdb_id must match the imdb ID given in the file at the top exactly.
+
+Include only one row per file in the output.
+
+Output the result as a single row CSV with headers.
+
+CSV Output Format:
+Column Name	Description
+imdb_id	IMDb ID, same as filename (without .pdf)
+hindu_muslim_relations:	1 if explored prominently, else 0
+hm_inclusive_exclusionary: "inclusive" (promotes inclusivity and harmony between the communities), "exclusionary" (promotes separation between the communities, or demonizes one of them), "N/A" (only if hindu_muslim_relations is 0)
+hm_positive_negative: "positive" (shows a mutually respectful relationship between the communities), "negative" (shows a tense or violent relationship between the communities), "N/A" (only if hindu_muslim_relations is 0)
+hm_progressive_conservative: "progressive" (shows a progressive outlook towards religious differences), "conservative" (is conservative in how it views religious differences), "N/A" (only if hindu_muslim_relations is 0)
+hm_escapist_confrontational: "escapist" (does not confront any harsh truths about Hindu-Muslim relations in India, instead glossing over the issues and providing escape), "confrontational" (confronts the realities of the theme head-on), "N/A" (only if hindu_muslim_relations is 0)
+gender_relations: 1 if explored prominently, else 0
+gender_inclusive_exclusionary: "inclusive" (has an inclusive approach towards members of any gender and portrays characters of all genders with dignity), "exclusionary" (portrays female or transgender characters without dignity or agency, and excludes them from narrative importance), "N/A" (only if gender_relations is 0)
+gender_positive_negative: "positive" (shows a mutually respectful and friendly relationship between people of different genders), "negative" (shows an oppressive or tense relationship between people of different genders), "N/A" (only if gender_relations is 0)
+gender_progressive_conservative: "progressive" (progressive outlook towards gender roles and relationships between people of different genders), "conservative" (conservative or traditional outlook towards gender roles and relationships between people of different genders), "N/A" (only if gender_relations is 0)
+gender_escapist_confrontational: "escapist" (does not confront real-world gender-based injustices, and may provide escapist portrayals of equality), "confrontational" (directly confronts patriarchal or gender-based inequalities or violence), "N/A" (only if gender_relations is 0)
+nationalism: 1 if explored prominently, else 0
+nat_inclusive_exclusionary: "inclusive" (promotes an inclusive vision of the nation that values diversity, pluralism, or coexistence), "exclusionary" (defines nationalism through exclusion — based on religion, ethnicity, ideology, etc., often showing "outsiders" or minorities as threats), "N/A" (only if nationalism is 0)
+nat_positive_negative: "positive" (portrays nationalism as a unifying and uplifting force), "negative" (portrays nationalism as oppressive, violent, or divisive), "N/A" (only if nationalism is 0)
+nat_progressive_conservative: "progressive" (imagines a forward-looking, inclusive idea of the nation, with modern values), "conservative" (national identity is rooted in tradition, nostalgia, or rigid cultural values), "N/A" (only if nationalism is 0)
+nat_escapist_confrontational: "escapist" (avoids or glosses over difficult political truths related to national identity or nationalism), "confrontational" (engages directly with real-world issues around nationalism — like majoritarianism, border conflicts, or political violence), "N/A" (only if nationalism is 0)
+failure_log	If file < 500 characters, write "Not enough information", else leave blank
+other_themes	A short phrase for any other sociopolitical theme (e.g., caste, family dynamics), or "None identified"
+
+Output format:
+Return as a CSV with a single header row and one row per movie.
+
+Important Rules:
+For any theme not present (e.g., if gender_relations is 0), mark all 4 associated sentiment fields as "N/A".
+Use only the labels provided for each axis.
+Do not add explanations or qualifiers.
+If multiple themes are equally prominent, more than one theme may be coded 1.
+Do not assign genre labels like “romantic comedy” in other_themes.
