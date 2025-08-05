@@ -39,16 +39,15 @@ To provide deeper insight into each film's critical reception, regulatory treatm
 
 ---
 
-### 3. **User Reviews and Ratings**
+### 3. **Poster Analyses**
 - **Attributes**:  
-  - `user_rating`: Average IMDb user rating (e.g., 7.6/10)  
-  - `user_review_count`: Number of user-submitted reviews  
-  - `sample_user_reviews`: Extracted text from representative user reviews  
+  - `character_genders`: Gender of the actors depicted on the poster which is the largest   
+  - `symbols`: Number of different types of symbols portrayed in the poster (e.g., Indian flag, sindoor on female character's forehead, etc)  
+  - `character_poses`: Types of poses depicted by characters (namaste, salute, couple in an embrace, standing, fightig stance, etc)  
 - **Source**:  
-  - IMDb, using the `Cinemagoer` Python library (formerly IMDbPY)  
+  - posters already collected for this project  
 - **Collection Method**:  
-  - Query each film by IMDb ID or title using Cinemagoer  
-  - Extract review count, average rating, and sample reviews  
+  - Use Anthropic to run an analysis of each of the movie posters for the given attributes  
 - **Purpose**:  
-  - Reflect audience perception and engagement  
-  - Enable sentiment analysis and viewer experience tracking
+  - To assess visual representation and gender dynamics by analyzing whether male or female actors are more prominently featured, reinforcing or challenging on-screen gender roles identified in the movie’s themes.
+  - To examine symbolic posturing and power portrayal, using actors’ stances (e.g., assertive, submissive, protective) to identify visual cues that align with or contradict the film's narrative sentiment (e.g., confrontational vs escapist). 
